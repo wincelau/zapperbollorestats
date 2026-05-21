@@ -28,6 +28,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ## Derniers signataires du jour
 
 ```diff
+# 117 nouveau(x) signataire(s)
 + Alek Anouchka, Peintre
 + Armand Pierre, Ingénieur du son
 + Arnold Rose, Assistante réalisation
@@ -151,7 +152,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ## Acting
 
 ```diff
-
+# 9 nouveau(x) signataire(s)
 + Bensnoussi Tewfik, Comédien
 + de La Rochefoucauld Sophie, Comédienne
 + Dujardin Caroline, Actrice et scénariste
@@ -464,7 +465,7 @@ Zimmer Yoann, Acteur/ réalisateur
 ## Casting
 
 ```diff
-
+# 0 nouveau(x) signataire(s)
 ```
 
 ```
@@ -506,7 +507,7 @@ Wormser Caroline, Directrice de casting
 ## Décor
 
 ```diff
-
+# 10 nouveau(x) signataire(s)
 + Alek Anouchka, Peintre
 + Bossut Sylvain, Sculpteur décorateur
 + De Stoutz Caroline, Peintre Patineur
@@ -712,7 +713,7 @@ Weiss Larcher Pépite, Peintre matiériste
 ## Distribution
 
 ```diff
-
+# 0 nouveau(x) signataire(s)
 ```
 
 ```
@@ -744,7 +745,7 @@ Zekri Jean-Marc, distributeur
 ## Électricien.ne
 
 ```diff
-
+# 2 nouveau(x) signataire(s)
 + Roques Pierre, Électricien de plateau
 + Vallette Clement, électricien
 ```
@@ -887,7 +888,7 @@ Zimmer Gaspard, électricien de plateau
 ## Exploitation
 
 ```diff
-
+# 2 nouveau(x) signataire(s)
 + Nicolas Pierre, Programmateur
 + Plagnol Pauline, Exploitante
 ```
@@ -1055,7 +1056,7 @@ Yven Myriam, Projectionniste
 ## Habillage, maquillage, coiffure
 
 ```diff
-
+# 4 nouveau(x) signataire(s)
 + Bernet Michelle, Maquilleuse
 + Charchaude Laurent, Regisseur costume
 + Dollon Josepha, Habilleuse
@@ -1154,7 +1155,7 @@ Zegre-Real Miguel, Habilleur
 ## Image
 
 ```diff
-
+# 9 nouveau(x) signataire(s)
 + Audy jean-luc, chef operateur son
 + Burgess Ned, Chef operateur
 + Decarsin Yolande, Cheffe opératrice du son
@@ -1443,7 +1444,7 @@ Zynski Victor, Directeur de la photographie
 ## Machiniste
 
 ```diff
-
+# 1 nouveau(x) signataire(s)
 + Petri Jean-Marc, Chef Machiniste
 ```
 
@@ -1516,7 +1517,7 @@ Viveiros Adail, Machiniste déco - Cinéma
 ## Post production
 
 ```diff
-
+# 7 nouveau(x) signataire(s)
 + Denis Emilien, Monteur
 + Detournay Caroline, Monteuse
 + Kharitonnoff Dimitri, Monteur son
@@ -1757,7 +1758,7 @@ Zaanoun Sarah, Monteuse
 ## Production
 
 ```diff
-
+# 9 nouveau(x) signataire(s)
 + Bégéja Eponine, Directrice de production
 + Bourgeois Albin, Producteur
 + Cavalier Laurent, Producteur exécutif Ciné / TV
@@ -2029,7 +2030,7 @@ Zimmermann Patricia, Directrice de production
 ## Réalisation
 
 ```diff
-
+# 24 nouveau(x) signataire(s)
 + Arnold Rose, Assistante réalisation
 + Balekdjian Anton, Réalisateur et scénariste
 + Baron Tommy, Scénariste - réalisateur
@@ -2878,7 +2879,7 @@ Zylberman Ruth, réalisatrice
 ## Régie
 
 ```diff
-
+# 6 nouveau(x) signataire(s)
 + Bedouin Declan, Régisseur
 + Brugère Mariane, Régisseur
 + Carteron Coline, Régisseuse d’extérieurs
@@ -3008,7 +3009,7 @@ Vigliano Anatole, Régisseur
 ## Scénariste
 
 ```diff
-
+# 8 nouveau(x) signataire(s)
 + Balekdjian Anton, Réalisateur et scénariste
 + Baron Tommy, Scénariste - réalisateur
 + Besse-Bourdier Renaud, Scénariste
@@ -3185,7 +3186,7 @@ Zebboudj Idir, Journaliste, scénariste
 ## Son
 
 ```diff
-
+# 20 nouveau(x) signataire(s)
 + Armand Pierre, Ingénieur du son
 + Audy jean-luc, chef operateur son
 + Bourdon Lucie, Ingénieure du son
@@ -3457,7 +3458,7 @@ Williamson Pierre-Marie, Mixeur
 ## Autres
 
 ```diff
-
+# 17 nouveau(x) signataire(s)
 + Bocquet Lila, Technicienne
 + Bonnot Jules, Plasticien
 + Deboaisne Axel, chef constructeur

@@ -44,6 +44,7 @@ echo "## Derniers signataires du jour" >> README.md
 
 echo >> README.md
 echo '```diff' >> README.md
+echo "# $(cat /tmp/newsignataires | wc -l) nouveau(x) signataire(s)" >> README.md
 cat /tmp/newsignataires | sed 's/^/+ /' >> README.md
 echo '```' >> README.md
 echo >> README.md
@@ -53,7 +54,7 @@ ls /tmp/zapperbollore_* | grep -v _tous | while read file; do
   echo "## $file" | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' >> README.md
   echo >> README.md
   echo '```diff' >> README.md
-  echo >> README.md
+  echo "# $(join -t ";" -j 1 "$file" /tmp/newsignataires | wc -l) nouveau(x) signataire(s)" >> README.md
   join -t ";" -j 1 "$file" /tmp/newsignataires | sed 's/^/+ /' >> README.md
   echo '```' >> README.md
   echo >> README.md

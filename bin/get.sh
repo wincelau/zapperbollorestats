@@ -2,5 +2,5 @@ curl https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb
 
 bash bin/stats.sh
 
-#git add liste_complete.txt README.md
-#git commit liste_complete.txt README.md -m "Mise à jour de la liste"
+git add liste_complete.txt README.md
+git commit liste_complete.txt README.md -m "Mise à jour de la liste"
