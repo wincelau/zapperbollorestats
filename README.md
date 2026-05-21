@@ -226,7 +226,6 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ## Acting
 
 ```diff
-# Derniers signataires
 
 + Bensnoussi Tewfik, Comédien
 + Cantineau Anne, actrice   
@@ -546,7 +545,6 @@ Zimmer Yoann, Acteur/ réalisateur
 ## Casting
 
 ```diff
-# Derniers signataires
 
 ```
 
@@ -589,7 +587,6 @@ Wormser Caroline, Directrice de casting
 ## Décor
 
 ```diff
-# Derniers signataires
 
 + Alek Anouchka, Peintre
 + Bossut Sylvain, Sculpteur décorateur
@@ -797,7 +794,6 @@ Weiss Larcher Pépite, Peintre matiériste
 ## Distribution
 
 ```diff
-# Derniers signataires
 
 + Choukroun Jacques, distributeur et Maître de conférence cinéma 
 + Richard Pauline, distributrice et enseignante de cinéma 
@@ -832,7 +828,6 @@ Zekri Jean-Marc, distributeur
 ## Électricien.ne
 
 ```diff
-# Derniers signataires
 
 + Dabirand Ronan, électro 
 + Roques Pierre, Électricien de plateau
@@ -977,7 +972,6 @@ Zimmer Gaspard, électricien de plateau
 ## Exploitation
 
 ```diff
-# Derniers signataires
 
 + Callonnec Laurent, programmateur 
 + Fernandez Jean-Manuel, projectionniste 
@@ -1153,7 +1147,6 @@ Yven Myriam, Projectionniste
 ## Habillage, maquillage, coiffure
 
 ```diff
-# Derniers signataires
 
 + Bernet Michelle, Maquilleuse
 + Charchaude Laurent, Regisseur costume
@@ -1256,7 +1249,6 @@ Zegre-Real Miguel, Habilleur
 ## Image
 
 ```diff
-# Derniers signataires
 
 + Audy jean-luc, chef operateur son
 + Burgess Ned, Chef operateur
@@ -1550,7 +1542,6 @@ Zynski Victor, Directeur de la photographie
 ## Machiniste
 
 ```diff
-# Derniers signataires
 
 + Petri Jean-Marc, Chef Machiniste
 + Tille François, chef machiniste de prise de vue cinéma 
@@ -1625,7 +1616,6 @@ Viveiros Adail, Machiniste déco - Cinéma
 ## Post production
 
 ```diff
-# Derniers signataires
 
 + Denis Emilien, Monteur
 + Detournay Caroline, Monteuse
@@ -1870,7 +1860,6 @@ Zaanoun Sarah, Monteuse
 ## Production
 
 ```diff
-# Derniers signataires
 
 + Baisadouli Philippe, directeur de production 
 + Bégéja Eponine, Directrice de production
@@ -2150,7 +2139,6 @@ Zimmermann Patricia, Directrice de production
 ## Réalisation
 
 ```diff
-# Derniers signataires
 
 + Abitbol Judith, cinéaste   
 + Arnold Rose, Assistante réalisation
@@ -3031,7 +3019,6 @@ Zylberman Ruth, réalisatrice
 ## Régie
 
 ```diff
-# Derniers signataires
 
 + Albéri Samuel, régisseur   
 + Bedouin Declan, Régisseur
@@ -3163,7 +3150,6 @@ Vigliano Anatole, Régisseur
 ## Scénariste
 
 ```diff
-# Derniers signataires
 
 + Balekdjian Anton, Réalisateur et scénariste
 + Balekdjian Anton, Réalisateur et scénariste
@@ -3347,7 +3333,6 @@ Zebboudj Idir, Journaliste, scénariste
 ## Son
 
 ```diff
-# Derniers signataires
 
 + Armand Pierre, Ingénieur du son
 + Audy jean-luc, chef operateur son
@@ -3620,7 +3605,6 @@ Williamson Pierre-Marie, Mixeur
 ## Autres
 
 ```diff
-# Derniers signataires
 
 + Alizée Romy, artiste 
 + Bernard Antoine, coordinateur d’un réseau de salles 
