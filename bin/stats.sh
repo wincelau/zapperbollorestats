@@ -16,6 +16,12 @@ done
 cat /tmp/zapperbollore_* | sort > /tmp/zapperbollore_tous
 join -t ";" -v 1 /tmp/zapperbollore /tmp/zapperbollore_tous > /tmp/zapperbollore_ZZZZAutres
 
+echo "Métier|Nombre de personnes" >> README.md
+echo "-|-" >> README.md
+ls /tmp/zapperbollore_* | grep -v _tous | while read file; do
+  echo "$(echo -n $file | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' )|$(cat "$file" | sort | uniq | wc -l)" >> README.md
+done
+
 ls /tmp/zapperbollore_* | grep -v _tous | while read file; do
   echo >> README.md
   echo "## $file" | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' >> README.md

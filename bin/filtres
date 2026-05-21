@@ -1,4 +1,4 @@
-Comédien.ne, Acteurice;(com[eéd]|acteur|actrice|acteurice)
+Acteurice,Comédien.ne;(com[eéd]|acteur|actrice|acteurice)
 Costumièr.e;(costum)
 Producteurice;(producteur|productrice)
 Production;(production)
