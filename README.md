@@ -225,10 +225,9 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ## Acting
 
-[Retourner au début de la page](#haut)
-
 ```diff
-@@Dernier signataire
+# Derniers signataires
+
 + Bensnoussi Tewfik, Comédien
 + Cantineau Anne, actrice   
 + de La Rochefoucauld Sophie, Comédienne
@@ -296,7 +295,6 @@ Brunnquell Céleste, actrice
 Caillaud Simon, Comédien
 Calamy Laure, actrice
 Candellier Anthony, Comédien
-Candellier Anthony, Comédien
 Candore Marco, Vidéaste, comédien, auteur
 Cantineau Anne, actrice   
 Capelle Blanche, Comédienne
@@ -339,7 +337,6 @@ Duguey Romain, comédien
 Dujardin Caroline, Actrice et scénariste
 Dumay Jean Charles,  acteur
 Dumortier Gauthier, acteur
-Duparc Sissi, Comédienne
 Duparc Sissi, Comédienne
 Dupuis Robin, comédien, technicien
 Escourtou Emmanuelle, Comédienne
@@ -385,7 +382,6 @@ Hesme Clotilde, comédienne
 Hill-Chouaki Florent, comédien, scénariste
 Hiron Emmanuelle, Actrice
 h Morgan, Comédienne
-Huby Laurence, comédienne
 Huby Laurence, comédienne
 Irzenski Martine, comédienne
 Jean-Elie Roman, comédien
@@ -485,7 +481,6 @@ Pudlo Amandine, comédienne
 Quaireau Inès, Actrice
 Quelquejay Nicolas, comédien
 Quinsac Léa, comédienne
-Quinsac Léa, comédienne
 Rabourdin Olivier, acteur   
 Raoult Delphine, Comédienne
 Renko Serge, Comédien
@@ -550,10 +545,9 @@ Zimmer Yoann, Acteur/ réalisateur
 
 ## Casting
 
-[Retourner au début de la page](#haut)
-
 ```diff
-@@Dernier signataire
+# Derniers signataires
+
 ```
 
 ```
@@ -594,10 +588,9 @@ Wormser Caroline, Directrice de casting
 
 ## Décor
 
-[Retourner au début de la page](#haut)
-
 ```diff
-@@Dernier signataire
+# Derniers signataires
+
 + Alek Anouchka, Peintre
 + Bossut Sylvain, Sculpteur décorateur
 + De Stoutz Caroline, Peintre Patineur
@@ -764,7 +757,6 @@ Reichenbach Pauline, Accessoiriste
 Rekhamdji Karima, ensemblière, chef peintre
 Remaury Margaux, décoratrice
 Renault Denis, chef décorateur
-Renault Denis, chef décorateur
 Rey Hélène, Ensemblière décoratrice
 Richard Elise, Menuiserie
 Richarth Oliver, Machiniste construction décor cinéma
@@ -804,10 +796,9 @@ Weiss Larcher Pépite, Peintre matiériste
 
 ## Distribution
 
-[Retourner au début de la page](#haut)
-
 ```diff
-@@Dernier signataire
+# Derniers signataires
+
 + Choukroun Jacques, distributeur et Maître de conférence cinéma 
 + Richard Pauline, distributrice et enseignante de cinéma 
 ```
@@ -840,10 +831,9 @@ Zekri Jean-Marc, distributeur
 
 ## Électricien.ne
 
-[Retourner au début de la page](#haut)
-
 ```diff
-@@Dernier signataire
+# Derniers signataires
+
 + Dabirand Ronan, électro 
 + Roques Pierre, Électricien de plateau
 + Vallette Clement, électricien
@@ -986,10 +976,9 @@ Zimmer Gaspard, électricien de plateau
 
 ## Exploitation
 
-[Retourner au début de la page](#haut)
-
 ```diff
-@@Dernier signataire
+# Derniers signataires
+
 + Callonnec Laurent, programmateur 
 + Fernandez Jean-Manuel, projectionniste 
 + Gouin Lucas, programmateur 
@@ -1079,7 +1068,6 @@ Labrusse Gautier, directeur de salle de cinéma
 Ladet Marion, programmatrice
 Lahbabi Caroline, Exploitante
 Langlois Solène, projectionniste
-Langlois Solène, projectionniste
 Lanni Dimitri, programmateur, chercheur indépendant
 Lassole Claire, programmatrice
 Le Gal Arthur, projectionniste
@@ -1134,7 +1122,6 @@ Rastello Stéphane, programmateur
 Régnard Casanova Zoé, programmatrice
 Reymond Laurence, programmatrice
 Ribiere Olivier, projectionniste
-Ribiere Olivier, projectionniste
 Rinaldi Louise, programmatrice, Centre Pompidou
 Riou Marine, directrice de salle de cinéma
 Rocaboy Séverine, directrice de salle de cinéma
@@ -1165,10 +1152,9 @@ Yven Myriam, Projectionniste
 
 ## Habillage, maquillage, coiffure
 
-[Retourner au début de la page](#haut)
-
 ```diff
-@@Dernier signataire
+# Derniers signataires
+
 + Bernet Michelle, Maquilleuse
 + Charchaude Laurent, Regisseur costume
 + Dollon Josepha, Habilleuse
@@ -1269,10 +1255,9 @@ Zegre-Real Miguel, Habilleur
 
 ## Image
 
-[Retourner au début de la page](#haut)
-
 ```diff
-@@Dernier signataire
+# Derniers signataires
+
 + Audy jean-luc, chef operateur son
 + Burgess Ned, Chef operateur
 + Decarsin Yolande, Cheffe opératrice du son
@@ -1564,10 +1549,9 @@ Zynski Victor, Directeur de la photographie
 
 ## Machiniste
 
-[Retourner au début de la page](#haut)
-
 ```diff
-@@Dernier signataire
+# Derniers signataires
+
 + Petri Jean-Marc, Chef Machiniste
 + Tille François, chef machiniste de prise de vue cinéma 
 ```
@@ -1629,7 +1613,6 @@ Roussel Laure, machiniste
 Roux Mathéo, Machiniste
 Ruet Lola, Machiniste
 Souël Peter, Machiniste
-Souël Peter, Machiniste
 Tille François, chef machiniste de prise de vue cinéma 
 Tran Tan Ba Louis, Machiniste de construction
 Trouillot Eddy, Machiniste
@@ -1641,10 +1624,9 @@ Viveiros Adail, Machiniste déco - Cinéma
 
 ## Post production
 
-[Retourner au début de la page](#haut)
-
 ```diff
-@@Dernier signataire
+# Derniers signataires
+
 + Denis Emilien, Monteur
 + Detournay Caroline, Monteuse
 + Kharitonnoff Dimitri, Monteur son
@@ -1887,10 +1869,9 @@ Zaanoun Sarah, Monteuse
 
 ## Production
 
-[Retourner au début de la page](#haut)
-
 ```diff
-@@Dernier signataire
+# Derniers signataires
+
 + Baisadouli Philippe, directeur de production 
 + Bégéja Eponine, Directrice de production
 + Bernard Frédéric, réalisateur et producteur 
@@ -2168,15 +2149,12 @@ Zimmermann Patricia, Directrice de production
 
 ## Réalisation
 
-[Retourner au début de la page](#haut)
-
 ```diff
-@@Dernier signataire
+# Derniers signataires
+
 + Abitbol Judith, cinéaste   
 + Arnold Rose, Assistante réalisation
 + Bailay Pauline, réalisatrice   
-+ Balekdjian Anton, Réalisateur et scénariste
-+ Balekdjian Anton, Réalisateur et scénariste
 + Balekdjian Anton, Réalisateur et scénariste
 + Balekdjian Anton, Réalisateur et scénariste
 + Barbet Aurélia, réalisatrice 
@@ -2268,12 +2246,10 @@ Babin Erwann, réalisateur
 Bailay Pauline, réalisatrice   
 Baillot Gertrude, Réalisatrice
 Balekdjian Anton, Réalisateur et scénariste
-Balekdjian Anton, Réalisateur et scénariste
 Balit Mokrane, Cinéaste
 Ballyot Sylvie, réalisatrice
 Barbé Ornella, Réalisatrice
 Barbet Aurélia, réalisatrice 
-Barché Loïc, réalisateur
 Barché Loïc, réalisateur
 Bareyre Matthieu, réalisateur
 Baron Lise, Réalisatrice
@@ -2735,7 +2711,6 @@ Loupiac Gildas, comédien et metteur en scène
 Machard Thierry, acteur et réalisateur
 Mahenc Isabelle, réalisatrice
 Mahieu Chloé, Réalisatrice
-Mahieu Chloé, Réalisatrice
 Mainçon frédéric, réalisateur
 Mak Anaïs, réalisatrice et graphiste générique
 Malandrone Gaelle, réalisation   
@@ -2847,7 +2822,6 @@ Peduzzi Richard, scénographe
 Peleyrol Anais, Réalisatrice scénariste Actrice
 Penchenier Charlotte, Réalisatrice
 Perchey Yuri, Scénographe
-Perdrix Claire, Autrice réalisatrice
 Perdrix Claire, Autrice réalisatrice
 Perelmuter Vivianne, réalisatrice
 Perrais Agnès, réalisatrice
@@ -3028,7 +3002,6 @@ Vimenet Nicolas, auteur-réalisateur
 Vincent Christian, réalisateur
 Vincenti-Crasson Adèle, réalisatrice
 Vincent Théo, réalisateur
-Vincent Théo, réalisateur
 Voignier Marie, réalisatrice et actrice
 Voiseux Maxence, réalisateur
 Voslion Amaury, auteur-réalisateur 
@@ -3057,10 +3030,9 @@ Zylberman Ruth, réalisatrice
 
 ## Régie
 
-[Retourner au début de la page](#haut)
-
 ```diff
-@@Dernier signataire
+# Derniers signataires
+
 + Albéri Samuel, régisseur   
 + Bedouin Declan, Régisseur
 + Brugère Mariane, Régisseur
@@ -3190,12 +3162,9 @@ Vigliano Anatole, Régisseur
 
 ## Scénariste
 
-[Retourner au début de la page](#haut)
-
 ```diff
-@@Dernier signataire
-+ Balekdjian Anton, Réalisateur et scénariste
-+ Balekdjian Anton, Réalisateur et scénariste
+# Derniers signataires
+
 + Balekdjian Anton, Réalisateur et scénariste
 + Balekdjian Anton, Réalisateur et scénariste
 + Baron Tommy, Scénariste - réalisateur
@@ -3219,7 +3188,6 @@ Allard Alice, Assistante Mise en scène
 Andraud Antoine, Électricien / scénariste
 Aptekman Jeanne, scénariste
 Balekdjian Anton, Réalisateur et scénariste
-Balekdjian Anton, Réalisateur et scénariste
 Bararuzunza Hélène, Scénariste
 Baron Tommy, Scénariste - réalisateur
 Bayiha Astrid Comédienne, autrice et metteuse en scène
@@ -3239,7 +3207,6 @@ Bourquin Zelda, Dramaturge, comédienne et metteure en scène
 Briere Bordier Margo, Réalisatrice, scénariste
 Brody Cyril, réalisateur et scénariste 
 Broudic Maïa, Assistante de production / Scénariste
-Brouillet Anne, scénariste
 Brouillet Anne, scénariste
 Chapelle Thomas, scripte et scénariste
 Chapelle Thomas, scripte, scénariste
@@ -3379,10 +3346,9 @@ Zebboudj Idir, Journaliste, scénariste
 
 ## Son
 
-[Retourner au début de la page](#haut)
-
 ```diff
-@@Dernier signataire
+# Derniers signataires
+
 + Armand Pierre, Ingénieur du son
 + Audy jean-luc, chef operateur son
 + Bourdon Lucie, Ingénieure du son
@@ -3412,7 +3378,6 @@ Alisinani Sonja, Musicienne
 André Etienne, Mixeur son
 Andrieux Leny, Chef opérateur son
 Angrand Emmanuel, monteur son
-Apostolou Simon, Mixeur
 Apostolou Simon, Mixeur
 Aretino Pierre Chef opérateur du son, Mixeur
 Armand Pierre, Ingénieur du son
@@ -3584,7 +3549,6 @@ Nouri Bastien, musicien
 Oraison Noëmy, Monteuse son
 Orantin Jonas, Monteur Son
 Ozanne Romain, mixeur
-Ozanne Romain, mixeur
 Paget Guilhem, Assistant son
 Parazon Marc, preneur de son
 Paris Florent, Compositeur
@@ -3655,10 +3619,9 @@ Williamson Pierre-Marie, Mixeur
 
 ## Autres
 
-[Retourner au début de la page](#haut)
-
 ```diff
-@@Dernier signataire
+# Derniers signataires
+
 + Alizée Romy, artiste 
 + Bernard Antoine, coordinateur d’un réseau de salles 
 + Bocquet Lila, Technicienne
