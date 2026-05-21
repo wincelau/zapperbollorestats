@@ -21,7 +21,7 @@ cat bin/filtres | while read ligne; do
   TITRE=$(echo -n $ligne | cut -d ";" -f 1);
   REGEXP=$(echo -n $ligne | cut -d ";" -f 2);
   REGEXPEXCLUDE=$(echo -n $ligne | cut -d ";" -f 3);
-  cat /tmp/zapperbollore | grep -Ei "$REGEXP" | grep -Eiv "$REGEXPEXCLUDE" > "/tmp/zapperbollore_$TITRE"
+  cat /tmp/zapperbollore | grep -Ei "$REGEXP" | grep -Eiv "$REGEXPEXCLUDE" | sort | uniq > "/tmp/zapperbollore_$TITRE"
 done
 cat /tmp/zapperbollore_* | sort > /tmp/zapperbollore_tous
 join -t ";" -v 1 /tmp/zapperbollore /tmp/zapperbollore_tous > /tmp/zapperbollore_ZZZZAutres
@@ -52,10 +52,9 @@ ls /tmp/zapperbollore_* | grep -v _tous | while read file; do
   echo >> README.md
   echo "## $file" | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' >> README.md
   echo >> README.md
-  echo "[Retourner au début de la page](#haut)" >> README.md
-  echo >> README.md
   echo '```diff' >> README.md
-  echo '@@Dernier signataire' >> README.md
+  echo '# Derniers signataires' >> README.md
+  echo >> README.md
   join -t ";" -j 1 "$file" /tmp/newsignataires | sed 's/^/+ /' >> README.md
   echo '```' >> README.md
   echo >> README.md
