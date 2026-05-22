@@ -25,7 +25,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 |Réalisation|[842](#réalisation)|
 |Régie|[116](#régie)|
 |Scénariste|[161](#scénariste)|
-|Son|[253](#son)|
+|Son|[249](#son)|
 |Autres|[458](#autres)|
 ## Derniers signataires
 
@@ -3378,7 +3378,6 @@ Goinard Olivier, Mixeur
 Gorans Yann-Elie, opérateur du son
 Gouret Sarah, Réalisatrice/ingénieur du son
 Greda Sylvie, technicienne son
-Groscolas Lison, Assistante caméra
 Guerineau Benoit, ingénieur du son
 Guerlot-Kourouklis, Alice artiste sonore, compositrice
 Guilloteau Paul, ingénieur du son
@@ -3472,7 +3471,6 @@ Rebut-Minotti Sylvain, compositeur
 Régimbeau Paul, Musicien
 Reis--Amblard Hugo, Assistant Son
 Renet Jean Francois, régisseur son
-Rieger Louison, Comédien
 Rigaut André, Chef opérateur du son
 Rit David, Chef Opérateur Son
 Robert Julia, Musicienne
@@ -3488,7 +3486,6 @@ Serrano Dune, Musicienne
 Serror Théo, Monteur Son
 Sichet Thibaut Ingénieur du son, monteur son
 Silvestre Benjamin, chef opérateur du son
-Si tahar Alison, Cheffe opv
 Sobrino Daniel, ingénieur du son
 Sohier Raphaël, monteur son
 Solal Claudia, musicienne
@@ -3498,7 +3495,6 @@ Squire Joseph, Ingénieur du son, monteur son
 Stephane Sanseverino, Musicien chanteur
 Taillandier Brigitte, Chef Opératrice du Son
 Thépault Avran, Compositeur
-Thoubillon Lison, scripte
 Trahard Clément, Assistant son
 Tronchot Damien, Monteur son &amp; compositeur
 Tucat Pierre, Preneur de son

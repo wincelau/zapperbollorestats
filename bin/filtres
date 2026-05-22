@@ -9,7 +9,7 @@ Régie;(r[ée]gisseu|Régie);zzzzzzz
 Électricien.ne;([éeè]l[éeè]ctricien|[éeè]l[éeè]ctro);zzzzzzz
 Image;(op[ée]rateu|opératrice|opv|cadreu|photo|cam[ée]ra|lumi[èeé]re|[ée]clairagiste|image);zzzzzzz
 Casting;(casting);zzzzzzz
-Son;(son$|son,|mixeur|perchman|perchiste,ingénieure? son|Composit|musicien);zzzzzzz
+Son;( son$| son,|-son$|mixeur|perchman|perchiste,ingénieure? son|Composit|musicien);zzzzzzz
 Décor;(d[eé]corateur|d[eé]coratrice|d[eé]co$|d[eé]cor|accessoir|menuiserie|peintre|ripp?er|ripp?eur);zzzzzzz
 Machiniste;(machiniste);zzzzzzz
 Distribution;(distributeur|distributrice|distribution);zzzzzzz
