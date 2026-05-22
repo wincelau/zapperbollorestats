@@ -10,7 +10,7 @@ echo "[Cette page](https://wincelau.github.io/ZapperBolloreStats/) est généré
 echo >> README.md
 
 echo "Dernière mis à jour : $(stat liste_complete.txt | grep Modif | cut -d " " -f 2,3 | cut -d "." -f 1
-) [Voir les sources](https://wincelau.github.io/ZapperBolloreStats/)" >> README.md
+) [(voir les sources)](https://wincelau.github.io/ZapperBolloreStats/)" >> README.md
 
 echo >> README.md
 
