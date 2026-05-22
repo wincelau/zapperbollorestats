@@ -3,15 +3,15 @@
 
 Cette page est générée automatiquement par un script, elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires de la tribune Zapper Bolloré](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic).
 
-Dernière mis à jour le 2026-05-22 13:49:53
+Dernière mis à jour le 2026-05-22 14:32:34
 
 ## Regroument des signataires par catégorie de métiers
 
 Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres) par rapport aux professions déclarées par les signataires. Il est loin d'être parfait et il se peut que le choix de ces catégories ne soit pas judicieux et qu'il y ai des erreurs n'hésitez pas à le signaler.
 
-|**Nombre de signataires totals**|**3441**|
+|**Nombre de signataires totals**|**3443**|
 |:-|-:|
-|Acting|[329](#acting)|
+|Acting|[331](#acting)|
 |Casting|[34](#casting)|
 |Décor|[224](#décor)|
 |Distribution|[23](#distribution)|
@@ -30,12 +30,12 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ## Derniers signataires 
 
-282 nouveau(x) signataire(s) aujourd'hui
+284 nouveau(x) signataire(s) aujourd'hui
 
 ### Acting
 
 ```diff
-# 36 nouveau(x) signataire(s) aujourd'hui
+# 38 nouveau(x) signataire(s) aujourd'hui
 
 + Azoulay Anne, comédienne
 + Bakri Saleh, acteur
@@ -52,6 +52,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Fieschi Marthe, Actrice
 + Fournier Isabelle, comédienne
 + Furton Julie, Actrice
++ Gough Denise, comédienne
 + Hallot Virginie Comédienne, metteure en scène scénariste
 + Héron Julien, Acteur
 + Lavalou Virginie, Comédienne
@@ -68,6 +69,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Ruffalo Mark, acteur
 + Sabater Raphaële, comédienne
 + Sabry Alexandra, Comédienne Chanteuse
++ Skarsgård Stellan, comédien
 + Stern Sarah, comédienne
 + Tagand Clémence, Actrice
 + Templier Thiery, Comédien
@@ -594,6 +596,7 @@ Gérardin Irène, actrice
 Gillet Andy, Comédien
 Girard Voss Lex, Acteur•ice
 Gobion Léonie, Comédienne
+Gough Denise, comédienne
 Graine Jérémie, Comédien
 Grandjean Morgane, Comédienne
 Grasmug Lilith, actrice, réalisatrice
@@ -752,6 +755,7 @@ Sichov Dounia, comédienne, réalisatrice et productrice
 Simon Laure Lucile, comédienne
 Sinet Fleur, comédienne
 Sissoko Emma, comédienne et chanteuse
+Skarsgård Stellan, comédien
 Slimani Missoum, Acteur
 Sodupe Mar, comédienne
 Solo Bruno, comédien
