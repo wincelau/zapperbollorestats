@@ -1,9 +1,9 @@
 <a name='haut'></a>
-# Statistiques des signataires de la tribune Zapper Bolloré
+# Suivi statistique de la tribune Zapper Bolloré
 
 Cette page est générée automatiquement par un script, elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires de la tribune Zapper Bolloré](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic).
 
-Dernière mis à jour le 2026-05-22 16:42:34
+Dernière mis à jour le 2026-05-22 17:50:42
 
 ## Regroument des signataires par catégorie de métiers
 
