@@ -1,4 +1,4 @@
-Acting;(com[eéd]|acteur|actrice|acteurice);(coach)
+Acteur.ice, Comédien.ne;(com[eéd]|acteur|actrice|acteurice);(coach)
 Habillage, maquillage, coiffure;(costum|habilleu|maquilleu|coiffeu|maquillage);zzzzzzz
 Production;(producteur|productrice|production|animatrice);(post prod)
 Réalisation;(scripte|r[ée]alis|réal|sc[ène]|cin[eé]aste|scénographe);zzzzzzz

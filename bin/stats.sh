@@ -22,7 +22,7 @@ cat liste_complete.txt | sort | uniq > /tmp/zapperbollore
 PREVIOUSCOMMIT=$(git log --oneline --until="$(date +%Y-%m-%d) 00:00:00" liste_complete.txt | head -n 1 | cut -d " " -f 1)
 PREVIOUSHASH=$(git cat-file -p $(git cat-file -p $PREVIOUSCOMMIT | grep tree | cut -d " " -f 2) | grep "liste_complete.txt" | cut -d " " -f 3 | sed -r 's/^([a-z0-9]+).+$/\1/')
 
-git cat-file -p $PREVIOUSHASH | sed -r 's/[ \t]+$//' | sed -r 's/[ ]+/ /g' | sed 's/&amp;/&/' | sort | uniq > /tmp/previouszapperbollore
+git cat-file -p $PREVIOUSHASH | sed -r 's/[ \t]+$//' | sed -r 's/[ ]+/ /g' | sort | uniq > /tmp/previouszapperbollore
 
 join -t ";" -j 1 /tmp/zapperbollore /tmp/previouszapperbollore -v 1 > /tmp/newsignataires
 

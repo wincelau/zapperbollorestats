@@ -12,7 +12,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ||Total|Aujourd'hui|
 |:-|-:|-:|
 |**Tous les signataires**|**3411**|**+284**
-|Acting|[329](#acting-1)|[+38](#acting)
+|Acteur.ice, Comédien.ne|[329](#acteurice-comédienne-1)|[+38](#acteurice-comédienne)
 |Casting|[33](#casting-1)|[+2](#casting)
 |Décor|[222](#décor-1)|[+38](#décor)
 |Distribution|[22](#distribution-1)|[+2](#distribution)
@@ -33,7 +33,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 284 nouveau(x) signataire(s) aujourd'hui
 
-### Acting
+### Acteur.ice, Comédien.ne
 
 ```diff
 # 38 nouveau(x) signataire(s) aujourd'hui
@@ -462,7 +462,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ## Liste complète
 
 
-## Acting
+## Acteur.ice, Comédien.ne
 
 ```
 Agogué Raphaëlle, comédienne
