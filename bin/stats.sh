@@ -9,8 +9,12 @@ echo "Cette page est générée automatiquement par un script, elle s'occupe seu
 
 echo >> README.md
 
-echo "Dernière mis à jour le $(stat liste_complete.txt | grep Modif | cut -d " " -f 2,3 | cut -d "." -f 1
+echo "Dernière mis à jour : $(stat liste_complete.txt | grep Modif | cut -d " " -f 2,3 | cut -d "." -f 1
 )" >> README.md
+
+echo >> README.md
+
+echo "[Voir la page](https://wincelau.github.io/ZapperBolloreStats/) [Voir les sources](https://wincelau.github.io/ZapperBolloreStats/)" >> README.md
 
 echo >> README.md
 
