@@ -3,13 +3,13 @@
 
 Cette page est générée automatiquement par un script, elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires de la tribune Zapper Bolloré](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic).
 
-Dernière mis à jour le 2026-05-22 11:10:06
+Dernière mis à jour le 2026-05-22 12:46:21
 
 ## Regroument des signataires par catégorie de métiers
 
 Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres) par rapport aux professions déclarées par les signataires. Il est loin d'être parfait et il se peut que le choix de ces catégories ne soit pas judicieux et qu'il y ai des erreurs n'hésitez pas à le signaler.
 
-|**Nombre de signataires totals**|**3294**|
+|**Nombre de signataires totals**|**3298**|
 |:-|-:|
 |Acting|[310](#acting)|
 |Casting|[33](#casting)|
@@ -22,7 +22,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 |Machiniste|[64](#machiniste)|
 |Post production|[233](#post-production)|
 |Production|[260](#production)|
-|Réalisation|[853](#réalisation)|
+|Réalisation|[857](#réalisation)|
 |Régie|[116](#régie)|
 |Scénariste|[164](#scénariste)|
 |Son|[254](#son)|
@@ -30,7 +30,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ## Derniers signataires
 
 ```diff
-# 135 nouveau(x) signataire(s) aujourd'hui
+# 139 nouveau(x) signataire(s) aujourd'hui
 
 + Abu Assad Hany, réalisateur
 + Alcala José, Réalisateur
@@ -67,6 +67,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Devos Zelie, Artiste plasticienne
 + Dion Cyril, réalisateur
 + Di Paolo Caroline, Costumière
++ Driver Sara, réalisatrice
 + Drouhot Vincent, Peintre décorateur
 + Dudoignon-Valade Charles, Cinéaste
 + Durand Keriako Amelie, musicienne comédienne
@@ -93,13 +94,16 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Grandperret Julia, Photographe
 + Grava Guillaume, Chef monteur
 + Grosos Mathis, Journaliste et créateur de contenu
++ Guerin José-Luis, réalisateur
 + Guisset Anne, Réalisatrice
 + Hache Christian, Musicien
 + Hallot Virginie Comédienne, metteure en scène scénariste
 + Henriot Daniel, administrateur de Production
 + Hulot Bastien, Peintre
 + Issaly Thibault, Machiniste
++ Jacir Anne-Marie, réalisatrice
 + Jahan Marylou, Assistant communication
++ Kadapia Asif, cinéaste
 + Kaurismaki Aki, réalisateur
 + Lainé Diodovic Sophie, Directrice de casting
 + Languille Plume Assistant son, musicien
@@ -2147,7 +2151,7 @@ Zimmermann Patricia, Directrice de production
 ## Réalisation
 
 ```diff
-# 39 nouveau(x) signataire(s) aujourd'hui
+# 43 nouveau(x) signataire(s) aujourd'hui
 
 + Abu Assad Hany, réalisateur
 + Alcala José, Réalisateur
@@ -2161,14 +2165,18 @@ Zimmermann Patricia, Directrice de production
 + Dauger Sonia, Autrice Réalisatrice
 + Davis Judith, Cinéaste
 + Dion Cyril, réalisateur
++ Driver Sara, réalisatrice
 + Dudoignon-Valade Charles, Cinéaste
 + Faulkner Morgane, Réalisatrice
 + Fischer Fabien, Réalisateur
 + Fonda Adrien, Réalisateur et Monteur
 + Garceau Ferdinand, Réalisateur
 + Godart Alice, Réalisatrice
++ Guerin José-Luis, réalisateur
 + Guisset Anne, Réalisatrice
 + Hallot Virginie Comédienne, metteure en scène scénariste
++ Jacir Anne-Marie, réalisatrice
++ Kadapia Asif, cinéaste
 + Kaurismaki Aki, réalisateur
 + Lanthimos Yorgos, réalisateur
 + Loach Ken, réalisateur
@@ -2471,6 +2479,7 @@ Douard Alice, réalisatrice
 Doumbia Eva, autrice et metteuse en scène
 Dozières Judith, Scripte
 Dréan Céline, Autrice réalisatrice
+Driver Sara, réalisatrice
 Drochon Aurélia, scripte
 Ducastel Olivier, réalisateur
 Duchemin Lucas, réalisateur
@@ -2576,6 +2585,7 @@ Gresset Chantal, auteure réalisatrice
 Grisey Raphaël, réalisateur, artiste, enseignant chercheur
 Grudzinska Joanna, autrice réalisatrice directrice de casting actrice enseignante
 Gueorguiva Elitza, réalisatrice et autrice
+Guerin José-Luis, réalisateur
 Gueritte Mathieu, réalisateur, monteur
 Guidicelli Jean-Claude, réalisateur
 Guignard Yohan, Auteur réalisateur
@@ -2606,6 +2616,7 @@ Huisse Eléonore, Assistante caméra-cinéaste
 Hunzinger Robin, réalisateur
 Iribarne Maia, Réalisatrice
 Ivasco Tina, Monteureuse, réalisateurice et scénariste
+Jacir Anne-Marie, réalisatrice
 Jacquin Thibault, cinéaste
 Jaffré lena, assistante à la mise en scène
 Jaillet Manon, assistante mise en scène
@@ -2623,6 +2634,7 @@ Jouvin Nicolas, réalisateur
 Jouzeau Esther, Réalisatrice
 Joyeux Laurine, scripte  
 Julier Pauline, cinéaste  
+Kadapia Asif, cinéaste
 Kaklea Lenio Metteuse en scène, chorégraphe
 Kaplan de Macedo Naruna, réalisatrice
 Karras Audrey, Assistante réalisatrice
