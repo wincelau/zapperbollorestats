@@ -1,15 +1,16 @@
 Acteur.ice, Comédien.ne;(com[eéd]|acteur|actrice|acteurice);(coach)
 Habillage, maquillage, coiffure;(costum|habilleu|maquilleu|coiffeu|maquillage);zzzzzzz
-Production;(producteur|productrice|production|animatrice);(post prod)
+Production;(producteur|productrice|production|producer);(post prod)
 Réalisation;(scripte|r[ée]alis|réal|sc[ène]|cin[eé]aste|scénographe);zzzzzzz
 Scénariste;(sc[eé]nariste|sc[ène]);zzzzzzz
-Post production;(monteur|monteus|VFX|animateur|post prod);zzzzzzz
-Exploitation;(projectionniste|programma|Directeur Cinéma|gérant de cinéma|exploitante|directrice de salle|directeur de salle);zzzzzzz
-Régie;(r[ée]gisseu|Régie);zzzzzzz
+Post production;(monteur|monteus|VFX|post prod|[ée]talonneu);zzzzzzz
+Animation;(animation|animateur|animatrice|3d|2d);zzzzzzz
+Exploitation;(projectionniste|programma|Directeur.*Cin[eé]ma|Directrice.*Cin[eé]ma|gérant de cinéma|exploitante|directrice de salle|directeur de salle|exploitant|g[ée]rant.*cinéma|administratrice cinéma|administrateur cinéma|agent.*accueil);zzzzzzz
+Régie;(r[ée]gisseu|Régie|technicien.*vid[eé]o);zzzzzzz
 Électricien.ne;([éeè]l[éeè]ctricien|[éeè]l[éeè]ctro);zzzzzzz
-Image;(op[ée]rateu|opératrice|opv|cadreu|photo|cam[ée]ra|lumi[èeé]re|[ée]clairagiste|image);zzzzzzz
+Image;(op[ée]rateu|opératrice|opv|cadreu|photo|cam[ée]ra|lumi[èeé]re|[ée]clairagiste|image|directrice artistique|directeur artistique|direction artistique);zzzzzzz
 Casting;(casting);zzzzzzz
-Son;( son$| son,|-son$|mixeur|perchman|perchiste,ingénieure? son|Composit|musicien);zzzzzzz
-Décor;(d[eé]corateur|d[eé]coratrice|d[eé]co$|d[eé]cor|accessoir|menuiserie|peintre|ripp?er|ripp?eur);zzzzzzz
+Son;( son$| son,|-son$|mixeur|perchman|perchiste|perchwoman|ingénieure? son|Composit|musicien);zzzzzzz
+Décor;(d[eé]corateur|d[eé]coratrice|d[eé]co$|d[eé]cor|accessoir|menuiserie|peintre|ripp?er|ripp?eur|menuisier);zzzzzzz
 Machiniste;(machiniste);zzzzzzz
-Distribution;(distributeur|distributrice|distribution);zzzzzzz
+Distribution;(distributeur|distributrice|distribution|acquisitions);zzzzzzz
