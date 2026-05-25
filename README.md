@@ -3,7 +3,7 @@
 
 [Cette page](https://wincelau.github.io/ZapperBolloreStats/) est générée automatiquement par [un script](https://github.com/wincelau/ZapperBolloreStats), elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic) de [la tribune Zapper Bolloré](https://www.liberation.fr/culture/depardon-binoche-haenel-600-professionnels-du-cinema-denoncent-lemprise-de-bollore-sur-le-septieme-art-20260511_FZW7WRBEXNDPVK5MAUTSFF6EHE).
 
-Dernière mis à jour : 2026-05-25 22:01:31
+Dernière mis à jour : 2026-05-25 22:31:40
 
 ## Regroument des signataires par catégorie de métiers
 
@@ -11,9 +11,9 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ||Total|Aujourd'hui|Hier|Avant-hier|
 |:-|-:|-:|-:|-:|
-|**Tous les signataires**|**4047**|**+351**|**+0**|**+335**|
+|**Tous les signataires**|**4046**|**+350**|**+0**|**+335**|
 |Acteur.ice, Comédien.ne|[418](#acteurice-comédienne-1)|[+42](#acteurice-comédienne)|||
-|Animation|[19](#animation-1)|[+6](#animation)|||
+|Animation|[18](#animation-1)|[+5](#animation)|||
 |Casting|[38](#casting-1)|[+3](#casting)|||
 |Décor|[274](#décor-1)|[+28](#décor)|||
 |Distribution|[24](#distribution-1)|[+0](#distribution)|||
@@ -32,7 +32,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ## Derniers signataires 
 
-351 nouveau(x) signataire(s) aujourd'hui
+350 nouveau(x) signataire(s) aujourd'hui
 
 ### Acteur.ice, Comédien.ne
 
@@ -86,11 +86,10 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Animation
 
 ```diff
-6 nouveau(x) signataire(s) aujourd'hui
+5 nouveau(x) signataire(s) aujourd'hui
 
 + Cortier Marine, Animatrice 2D
 + Créhange Joseph, Animateur
-+ Intent;scheme\x3dhttps;package\x3dcom.google.android.apps.docs.editors.docs;S.browser_fallback_url\x3dmarket:\/\/details?id\x3dcom.google.android.apps.docs.editors.docs;end', 'googledocs:\/\/docs.google.com\/document\/d\/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI\/edit', false );;scheme\x3dhttps;package\x3dcom.google.android.apps.docs.editors.docs;S.browser_fallback_url\x3dmarket:\/\/details?id\x3dcom.google.android.apps.docs.editors.docs;end', 'googledocs:\/\/docs.google.com\/document\/d\/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI\/edit', false );
 + Leclerc Maxime, Animateur 3D
 + Mariet Arthus, Cinéma d’animation
 + Outin Pierre, Infographiste 3D
@@ -979,7 +978,6 @@ Castelli Nicolas, graphiste 3D
 Cortier Marine, Animatrice 2D
 Créhange Joseph, Animateur
 Dorey Camille, Animatrice 2d
-Intent;scheme\x3dhttps;package\x3dcom.google.android.apps.docs.editors.docs;S.browser_fallback_url\x3dmarket:\/\/details?id\x3dcom.google.android.apps.docs.editors.docs;end', 'googledocs:\/\/docs.google.com\/document\/d\/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI\/edit', false );
 Lainé Audrey, Animatrice 3D
 Leclerc Maxime, Animateur 3D
 Longuet Emma, Dessinatrice d’animation
