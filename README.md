@@ -3,7 +3,7 @@
 
 [Cette page](https://wincelau.github.io/ZapperBolloreStats/) est générée automatiquement par [un script](https://github.com/wincelau/ZapperBolloreStats), elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic) de [la tribune Zapper Bolloré](https://www.liberation.fr/culture/depardon-binoche-haenel-600-professionnels-du-cinema-denoncent-lemprise-de-bollore-sur-le-septieme-art-20260511_FZW7WRBEXNDPVK5MAUTSFF6EHE).
 
-Dernière mis à jour : 2026-05-26 21:37:06
+Dernière mis à jour : 2026-05-26 22:07:17
 
 ## Regroument des signataires par catégorie de métiers
 
@@ -11,24 +11,24 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ||Total|Aujourd'hui|Hier|Avant-hier|
 |:-|-:|-:|-:|-:|
-|**Tous les signataires**|**4233**|**+577**|**+350**|**+0**|
+|**Tous les signataires**|**4228**|**+577**|**+350**|**+0**|
 |Acteur.ice, Comédien.ne|[445](#acteurice-comédienne-1)|[+63](#acteurice-comédienne)|||
 |Animation|[20](#animation-1)|[+4](#animation)|||
 |Casting|[38](#casting-1)|[+4](#casting)|||
-|Décor|[290](#décor-1)|[+52](#décor)|||
+|Décor|[289](#décor-1)|[+52](#décor)|||
 |Distribution|[24](#distribution-1)|[+1](#distribution)|||
 |Électricien.ne|[150](#Électricienne-1)|[+26](#Électricienne)|||
-|Exploitation|[217](#exploitation-1)|[+14](#exploitation)|||
+|Exploitation|[216](#exploitation-1)|[+14](#exploitation)|||
 |Habillage, maquillage, coiffure|[121](#habillage-maquillage-coiffure-1)|[+22](#habillage-maquillage-coiffure)|||
 |Image|[389](#image-1)|[+61](#image)|||
 |Machiniste|[80](#machiniste-1)|[+7](#machiniste)|||
-|Post production|[300](#post-production-1)|[+44](#post-production)|||
+|Post production|[299](#post-production-1)|[+44](#post-production)|||
 |Production|[314](#production-1)|[+32](#production)|||
-|Réalisation|[1054](#réalisation-1)|[+135](#réalisation)|||
+|Réalisation|[1052](#réalisation-1)|[+135](#réalisation)|||
 |Régie|[154](#régie-1)|[+27](#régie)|||
-|Scénariste|[211](#scénariste-1)|[+31](#scénariste)|||
+|Scénariste|[210](#scénariste-1)|[+31](#scénariste)|||
 |Son|[325](#son-1)|[+51](#son)|||
-|Autres|[532](#autres-1)|[+74](#autres)|||
+|Autres|[531](#autres-1)|[+74](#autres)|||
 
 ## Derniers signataires 
 
@@ -1365,7 +1365,6 @@ Bescond Gwendal, chef décorateur
 Bicanin Milan, assistant décorateur
 Blard Petitgas Cassandre, peintre en décor
 Bocquier Achille, décorateur et cinéaste
-Boiscuille Nicolas, décorateur
 Bonetto Tom, menuisier de décor
 Bonin Baptiste, accessoiriste de plateau
 Bonjour Marion, assistante décoration
@@ -1869,7 +1868,6 @@ Debruyère Nasser, projectionniste
 de Calan Louise, programmatrice
 De chaumont Benoît, Exploitant
 de Lacotte Marguerite, directrice salle de cinéma
-de Lacotte Marguerite, exploitante
 Delaisse Else, Projectionniste
 Denzler Claire, Programmation
 Depardon Amélie, programmatrice
@@ -2741,7 +2739,6 @@ De Loof Valérie, Monteuse son
 Denis Emilien, Monteur
 Depret Tiphaine, Monteuse son
 Derail Jean-Philippe, Cinéaste et Monteur
-Derail Jean-Philippe, cinéaste, monteur
 Descannevelle Adrien, Chargé•e de Post Production
 Dessertine Cécille, Monteuse
 Destrez Zoe, Assistante-monteuse
@@ -3478,7 +3475,6 @@ Chalvin Nina, scripte
 Champagnac Xavier, Réalisateur
 Chantre Zoé, cinéaste
 Chapelle Thomas, scripte et scénariste
-Chapelle Thomas, scripte, scénariste
 Charmant Gilles, réalisateur
 Chassaigne Iris, réalisatrice et scripte
 Chassot Alexia, scripte
@@ -3594,7 +3590,6 @@ Depardon Raymond, réalisateur
 De Peretti Yves, réalisateur
 Depeyre Marine, Comédienne, metteuse en scène
 Derail Jean-Philippe, Cinéaste et Monteur
-Derail Jean-Philippe, cinéaste, monteur
 Derdoukh Amandine, scripte
 Deruas Peano Caroline, réalisatrice
 Dervieux Coline, scripte
@@ -4538,7 +4533,6 @@ Cardot Floriane, Réalisatrice, scénariste, photographe
 Carpentier Alice, Scénariste
 Carpintieri Aude Comédienne, Metteuse en scène
 Chapelle Thomas, scripte et scénariste
-Chapelle Thomas, scripte, scénariste
 Chaton Félicité, Comédienne et metteuse en scène
 Chevalier Chloé, scénariste et romancière
 Chevillotte Louise, comédienne, metteuse en scène
@@ -5251,7 +5245,6 @@ Foucard Anne-Thaïse, responsable RSE
 Franbourg Juliette, Danseuse
 Fraysse Romane, journaliste
 Fréret Margot, technicienne
-Frizat Dominique, repéreuse
 Gallon Thomas, attaché de presse
 Gantzer Camille, Journaliste
 Garay Aurélia, ensemblière
