@@ -3,7 +3,7 @@
 
 [Cette page](https://wincelau.github.io/ZapperBolloreStats/) est générée automatiquement par [un script](https://github.com/wincelau/ZapperBolloreStats), elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic) de [la tribune Zapper Bolloré](https://www.liberation.fr/culture/depardon-binoche-haenel-600-professionnels-du-cinema-denoncent-lemprise-de-bollore-sur-le-septieme-art-20260511_FZW7WRBEXNDPVK5MAUTSFF6EHE).
 
-Dernière mis à jour : 2026-05-26 15:05:32
+Dernière mis à jour : 2026-05-26 16:35:54
 
 ## Regroument des signataires par catégorie de métiers
 
@@ -11,7 +11,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ||Total|Aujourd'hui|Hier|Avant-hier|
 |:-|-:|-:|-:|-:|
-|**Tous les signataires**|**4235**|**+572**|**+350**|**+0**|
+|**Tous les signataires**|**4235**|**+573**|**+350**|**+0**|
 |Acteur.ice, Comédien.ne|[445](#acteurice-comédienne-1)|[+62](#acteurice-comédienne)|||
 |Animation|[20](#animation-1)|[+4](#animation)|||
 |Casting|[38](#casting-1)|[+4](#casting)|||
@@ -22,17 +22,17 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 |Habillage, maquillage, coiffure|[121](#habillage-maquillage-coiffure-1)|[+22](#habillage-maquillage-coiffure)|||
 |Image|[389](#image-1)|[+61](#image)|||
 |Machiniste|[80](#machiniste-1)|[+7](#machiniste)|||
-|Post production|[300](#post-production-1)|[+43](#post-production)|||
+|Post production|[300](#post-production-1)|[+44](#post-production)|||
 |Production|[315](#production-1)|[+32](#production)|||
 |Réalisation|[1055](#réalisation-1)|[+134](#réalisation)|||
 |Régie|[154](#régie-1)|[+27](#régie)|||
 |Scénariste|[211](#scénariste-1)|[+31](#scénariste)|||
-|Son|[325](#son-1)|[+49](#son)|||
+|Son|[325](#son-1)|[+50](#son)|||
 |Autres|[532](#autres-1)|[+74](#autres)|||
 
 ## Derniers signataires 
 
-572 nouveau(x) signataire(s) aujourd'hui
+573 nouveau(x) signataire(s) aujourd'hui
 
 ### Acteur.ice, Comédien.ne
 
@@ -357,7 +357,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Post production
 
 ```diff
-43 nouveau(x) signataire(s) aujourd'hui
+44 nouveau(x) signataire(s) aujourd'hui
 
 + Abeillon Eve, monteuse
 + Ackermann Mahee, monteuse
@@ -396,6 +396,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Brux Lucie, monteuse
 + Bultel Margot, monteuse son
 + Cadilhac Julien, monteur
++ Cancelli Théo, Monteur son, mixeur
 + Conti Doriane, monteuse
 + Decelle Louise, cheffe monteuse
 + Joubrel Valentin, Réalisateur monteur
@@ -659,7 +660,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Son
 
 ```diff
-49 nouveau(x) signataire(s) aujourd'hui
+50 nouveau(x) signataire(s) aujourd'hui
 
 + Aïchoun Samuel, mixeur son
 + Albert Elisha, perchwoman
@@ -705,6 +706,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Byl Jeanne, ingénieur du son
 + Cabanillas Silvia, assistante son
 + Cahen Laura, autrice et compositrice
++ Cancelli Théo, Monteur son, mixeur
 + Eymeric Xavier, Compositeur
 + Gastinelli Vincent, Compositing Artist
 + Lebourg Aurélien, ingénieur du son
@@ -2700,7 +2702,7 @@ Buré Jean-Denis, monteur
 Burke James, artiste VFX
 Butrak Charlotte, monteuse son
 Cadilhac Julien, monteur
-Cancelli Théo, Monteur son, Mixeur
+Cancelli Théo, Monteur son, mixeur
 Cardinal Brice, monteur
 Carré Clémence, monteuse
 Carteret Marie-Pomme, Monteuse
@@ -4776,7 +4778,7 @@ Byl Jeanne, ingénieur du son
 Cabanillas Silvia, assistante son
 Cadilhac Romain, chef opérateur du son
 Cahen Laura, autrice et compositrice
-Cancelli Théo, Monteur son, Mixeur
+Cancelli Théo, Monteur son, mixeur
 Cannepin Adrien, ingénieur du son
 Cantin Nicolas, chef opérateur du son
 Cartigny France, Musicienne
