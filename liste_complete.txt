@@ -28,7 +28,6 @@ Akbaraly Hussein, vendeur international
 Akkari Danae, monteuse
 Alabau Audrey, serrurière
 Alain Arnaud, chef-opérateur et réalisateur
-Alain Petiteau, réalisateur, scénariste, scripte et assistant régisseur adjoint
 Alanou Tanguy, réalisateur
 Alaoui Caroline, comédienne
 Alaoui Sofia, réalisatrice
@@ -42,7 +41,6 @@ Albrespy Barnabé, technicien son
 Alcala José, réalisateur
 Alek Anouchka, peintre
 Alethia, artiste
-Alice Kakou, assistante réalisation
 Alisinani Sonja, musicienne
 Alix Sophie, directrice de la communication
 Alizée Romy, artiste
@@ -305,7 +303,7 @@ Bennoun Jolly Simon, cinéaste
 Benoit François, cadreur
 Benoit Laurence, électricienne
 Benouataf Khadidja, productrice d’impact  
-Ben sadia Hugo, machiniste de construction
+Ben Sadia Hugo, machiniste de construction
 Bensalah Karim, réalisateur
 Ben Slama Sonia, réalisatrice
 Bensnoussi Tewfik, comédien
@@ -346,7 +344,7 @@ Berthier Virginie, réalisatrice
 Berthod Saskian, monteuse
 Berthou Clément, monteur son
 Berthou Joséphine, réalisatrice
-Bertin Morgane, première assistante mise en scène
+Bertin Morgane, 1e assistante mise en scène
 Bertocchi Davide, artiste
 Bertrand Camille, responsable éducation dans un cinéma
 Bertrand David, directeur de casting
@@ -388,115 +386,125 @@ Bille Valérien, ensemblière
 Billot Samuel, preneur de son
 Billuart Lisa, scripte
 Binoche Juliette, actrice et réalisatrice
-Birchler Sébastien, Scénariste
-Biro Julie, Réalisatrice
+Birchler Sébastien, scénariste
+Biro Julie, réalisatrice
 Bisson Mathieu, comédien
-Biton Sacha, Assistant réalisateur
+Biton Sacha, assistant réalisateur
 Bitoun Olivier, indépendant de la diffusion
-Bitton Simone, Réalisatrice
+Bitton Simone, réalisatrice
+Bittoun Léa, projectionniste
 Bizern Catherine, directrice artistique
 Blache Caroline, documentaliste recherchiste
-Blache Caroline, documentaliste recherchiste
-Blachère Louise, Assistante réalisatrice
-Blagny Julia, Réalisatrice
-Blain Etoile, ensemblière
+Blachère Louise, assistante réalisatrice
+Blagny Julia, réalisatrice
+Blain Étoile, ensemblière
 Blaise Idriss, électricien
-Blanchard Agathe, Machiniste de prise de vue
-Blanchard daroch Charlie, Réalisatrice documentaire
-Blanchard Régis, Réalisateur
+Blanchard Agathe, machiniste de prise de vue
+Blanchard daroch Charlie, réalisatrice de documentaires
+Blanchard Régis, réalisateur
 Blanchet Rodolphe, comédien
-Blanc Isabelle, scénariste, réalisatrice
+Blanc Isabelle, scénariste et réalisatrice
 Blanc Zéphir, réalisateur et directeur de production
-Blard Petitgas Cassandre, Peintre en décor
-Blasco Ludovic, Monteur
-Blasquez Rémi, Comédien
-Blaudeau Valentin, Costumier
+Blard Petitgas Cassandre, peintre en décor
+Blasco Ludovic, monteur
+Blasquez Brice, régisseur d’extérieur
+Blasquez Rémi, comédien
+Blaudeau Valentin, costumier
 Bléhaut Hélène, Artiste autrice
-Blery Isabelle, Régisseuse adjointe
-Blin Marlene, Journaliste
+Bleil Mehdi, régisseur
+Blery Isabelle, régisseuse adjointe
+Blin Marlene, journaliste
 Bloch Evelyne, exploitante
-Bloc Jean-Pierre, réalisateur, monteur
+Bloc Jean-Pierre, réalisateur et monteur
 Blondel Jean Marie, ingénieur du son cinéma
-Blondel Johan, Électricien de prises de vues
-Blossier Patrick, Directeur Photo
-Blossom Baril Nola, réalisatrice, actrice
+Blondel Johan, électricien de prises de vues
+Blossier Patrick, directeur photo
+Blossom Baril Nola, réalisatrice et actrice
 Blot Anne-Capucine, habilleuse
 Blot Claire-Emmanuelle, programmatrice
 Blottière Mathilde, journaliste
-Blove Eugene, Artiste
+Blove Eugene, artiste
 Blumberg Jérôme, réalisateur
 Boccato Giulia, productrice d&
-Boccia Elora, Maquilleuse
-Bochard Lucas, Perchman
-Bochet Johan, Artiste
-Bockel Sarah, Administratrice de prod
-Bocquet Lila, Technicienne
+Boccia Elora, maquilleuse
+Bochard Lucas, perchman
+Bochet Johan, artiste
+Bockel Sarah, administratrice de production
+Bocobza Reuben, réalisateur, scénariste et projectionniste
+Bocquet Lila, technicienne
 Bocquier Achille, décorateur et cinéaste
 Bodet Pascale, réalisatrice
-Bogdanovsky Sonia, Monteuse
+Bogdanovsky Sonia, monteuse
 Boghossian Lazare, compositeur
+Bohringer Romane, comédienne et réalisatrice
 Boichon Juliette, assistante caméra
-Boichut Emeline, Régisseuse cinéma
-Boimare Charlotte, Comédienne
+Boichut Emeline, régisseuse cinéma
+Boimare Charlotte, comédienne
 Boiscuille Nicolas, décorateur
 Boissau Martin, ingénieur du son
-Boissau Rémi, auteur, photographe
+Boissau Rémi, auteur et photographe
 Boisteau Eric, chef opérateur du son
 Boiteux Chloé, technicienne
-Boiteux Remi Critique, auteur, modérateur, enseignant
+Boiteux Remi, critique, auteur, modérateur et enseignant
 Bojena Horackova, cinéaste
 Bolinois Yvana, technicien lumière
-Bollègue Anaïs, Assistante Caméra
-Boluda Aslan, Comédien
+Bollègue Anaïs, assistante caméra
+Boluda Aslan, comédien
 Bompy Pierre, producteur
-Bonato Stephen, Programmateur cinéma
+Bonato Stephen, programmateur cinéma
 Bondon Denys, directeur de production
-Bonetto Tom, Menuisier de décor
-Bonge Zélie, Assistante scripte
+Bonetto Tom, menuisier de décor
+Bonge Zélie, assistante scripte
 Bonhomme Rémi, producteur
-Bonin Baptiste,  accessoiriste de plateau
-Boni Raymond Musicien, compositeur
+Bonin Baptiste, accessoiriste de plateau
+Boni Raymond, musicien et compositeur
 Bonitzer Agathe, comédienne
-Bonjour Marion, assistante déco
+Bonjour Marion, assistante décoration
 Bonmarchand Caroline, productrice
-Bonnaffe Jacques, Comédien
-Bonnafous Théo, Plaquiste
+Bonnaffe Jacques, comédien
+Bonnafous Théo, plaquiste
 Bonnard Damien, comédien
 Bonnarme Paul, programmateur et chercheur
-Bonnaud Julien, Assistant vidéo
+Bonnaud Julien, assistant vidéo
 Bonneau Marion, programmatrice
-Bonnefoi Stéphane, Documentariste
-Bonnefoy Loryne, 1ere assistante son
+Bonnefoi Stéphane, documentariste
+Bonnefoy Loryne, 1e assistante son
+Bonnet Augustin, réalisateur et chef électricien
 Bonnet Aurélien, chef monteur
-Bonnet Jean-Baptiste, Producteur
+Bonnet Jean-Baptiste, producteur
 Bonnet Lucie, réalisatrice
-Bonnet Quentin, Monteur
-Bonnier Clément, Comédien
+Bonnet Quentin, monteur
+Bonneyrat Pierre, journaliste
+Bonnier Clément, comédien
 Bonnin Amélie, réalisatrice
-Bonnot Jules, Plasticien
-Bonsergent Camille, Cheffe Décoratrice
+Bonnot Jules, plasticien
+Bonsergent Camille, cheffe décoratrice
+Boonjing Olivier, chef opérateur
 Bopp Corinne, programmatrice
-Borca Cécile, Artiste
+Borca Cécile, artiste
 Bordet Amaïllia, monteuse
+Bordet Samuel, ensemblier décorateur
 Bordier Antoine, régisseur
 Bordier Aurélie, productrice
-Borel Julien, Assistant caméra / chef opérateur
-Borgeaud François, Accessoiriste
+Borel Julien, assistant caméra et chef opérateur
+Borenstein Jérôme, assistant-réalisateur
+Borgeaud François, accessoiriste
 Borghino Christian, programmateur
 Bories Benoit, artiste sonore
-Bories Claudine, Cinéaste
+Bories Claudine, cinéaste
 Borja Frédéric, chef électricien
 Borleteau Lucie, réalisatrice
 Borne Carole, monteuse
 Borne Cécile, artiste
 Borrel Philippe, auteur et réalisateur
-Bortolotti Raphaël, Assistant opérateur.ice
+Bortolotti Raphaël, assistant opérateur.ice
 Bosc Bénédicte, comédienne
-Boscher Loïc, Assistant décorateur
-Boschet Raphaël, Technicien de ciné
-Bos Samuel, Scénariste
-Bossard-Giannesini Adèle, Comédienne
-Bossut Sylvain, Sculpteur décorateur
+Boscher Loïc, assistant décorateur
+Boschet Raphaël, technicien
+Bos Samuel, scénariste
+Bossard-Giannesini Adèle, comédienne
+Bossut Sylvain, sculpteur décorateur
+Bosvieux Lisa, assistante Déco
 Bot Catherine, Chef monteuse
 Botte Sophie, comédienne
 Bottier Clément, Chef Costumier
@@ -1763,9 +1771,9 @@ Ginot Pauline, déléguée générale
 Giorda Flavien, Producteur
 Giordano Claude, Artiste peintre - Faux tatouages
 Gipoulou Jonathan, exploitant
-Girard Camille, Programmateur
+Girard Camille, programmateur
 Girard Jules, Acteur
-Girard Llorca Noé Machiniste, réalisateur  documentaire
+Girard Llorca Noé Machiniste, réalisateur de documentaires
 Girard Mathilde, réalisatrice
 Girardot Chevaucheur Pauline, déléguée générale
 Girardot Raphaël, réalisateur
@@ -2192,11 +2200,12 @@ Jullien Corinne, peintre déco
 Jumai Laguna, programmatrice
 Jungman David, Monteur
 Juniot Barbara, Cheffe opératrice du Son, Perchewoman
-Just Quentin, Producteur
+Just Quentin, producteur
 Kachoutina Tatiana, productrice
-Kaczmarek Olivier, Administrateur
+Kaczmarek Olivier, administrateur
 Kadapia Asif, cinéaste
 Kaklea Lenio Metteuse en scène, chorégraphe
+Kakou Alice, assistante réalisation
 Kallouchi Ayoub, comédien
 Kamidian Sara, Intimacy coordinator
 Kamilindi Gaël, Acteur / Réalisateur
@@ -3186,6 +3195,7 @@ Perusin Mysorekar Maya, Réalisatrice
 Petisoff Nicolas, Artiste dramatique / auteur
 Petit Baptiste, Ripper
 Petit Camille, Assistante réalisatrice
+Petiteau Alain, réalisateur, scénariste, scripte et assistant régisseur adjoint
 Petit Jérôme, Opérateur du son, monteur son
 Petit-Jouvet Laurence, réalisatrice
 Petit Matthieu, Graphiste
