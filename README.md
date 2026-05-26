@@ -3,7 +3,7 @@
 
 [Cette page](https://wincelau.github.io/ZapperBolloreStats/) est générée automatiquement par [un script](https://github.com/wincelau/ZapperBolloreStats), elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic) de [la tribune Zapper Bolloré](https://www.liberation.fr/culture/depardon-binoche-haenel-600-professionnels-du-cinema-denoncent-lemprise-de-bollore-sur-le-septieme-art-20260511_FZW7WRBEXNDPVK5MAUTSFF6EHE).
 
-Dernière mis à jour : 2026-05-26 16:35:54
+Dernière mis à jour : 2026-05-26 21:37:06
 
 ## Regroument des signataires par catégorie de métiers
 
@@ -11,33 +11,33 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ||Total|Aujourd'hui|Hier|Avant-hier|
 |:-|-:|-:|-:|-:|
-|**Tous les signataires**|**4235**|**+573**|**+350**|**+0**|
-|Acteur.ice, Comédien.ne|[445](#acteurice-comédienne-1)|[+62](#acteurice-comédienne)|||
+|**Tous les signataires**|**4233**|**+577**|**+350**|**+0**|
+|Acteur.ice, Comédien.ne|[445](#acteurice-comédienne-1)|[+63](#acteurice-comédienne)|||
 |Animation|[20](#animation-1)|[+4](#animation)|||
 |Casting|[38](#casting-1)|[+4](#casting)|||
-|Décor|[291](#décor-1)|[+51](#décor)|||
+|Décor|[290](#décor-1)|[+52](#décor)|||
 |Distribution|[24](#distribution-1)|[+1](#distribution)|||
-|Électricien.ne|[149](#Électricienne-1)|[+25](#Électricienne)|||
-|Exploitation|[217](#exploitation-1)|[+13](#exploitation)|||
+|Électricien.ne|[150](#Électricienne-1)|[+26](#Électricienne)|||
+|Exploitation|[217](#exploitation-1)|[+14](#exploitation)|||
 |Habillage, maquillage, coiffure|[121](#habillage-maquillage-coiffure-1)|[+22](#habillage-maquillage-coiffure)|||
 |Image|[389](#image-1)|[+61](#image)|||
 |Machiniste|[80](#machiniste-1)|[+7](#machiniste)|||
 |Post production|[300](#post-production-1)|[+44](#post-production)|||
-|Production|[315](#production-1)|[+32](#production)|||
-|Réalisation|[1055](#réalisation-1)|[+134](#réalisation)|||
+|Production|[314](#production-1)|[+32](#production)|||
+|Réalisation|[1054](#réalisation-1)|[+135](#réalisation)|||
 |Régie|[154](#régie-1)|[+27](#régie)|||
 |Scénariste|[211](#scénariste-1)|[+31](#scénariste)|||
-|Son|[325](#son-1)|[+50](#son)|||
+|Son|[325](#son-1)|[+51](#son)|||
 |Autres|[532](#autres-1)|[+74](#autres)|||
 
 ## Derniers signataires 
 
-573 nouveau(x) signataire(s) aujourd'hui
+577 nouveau(x) signataire(s) aujourd'hui
 
 ### Acteur.ice, Comédien.ne
 
 ```diff
-62 nouveau(x) signataire(s) aujourd'hui
+63 nouveau(x) signataire(s) aujourd'hui
 
 + Aiffe Ceccaldi Vanessa, comédienne
 + Argée Juliette, comédienne
@@ -80,6 +80,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Brücher Nathalie, comédienne
 + Buysse Hugo, acteur
 + Charton Hervé, comédien
++ Comby Lemaitre Théo, Réalisateur et acteur
 + Comte Anne, Comédienne
 + Delwit Étienne, Comédien
 + Doumenc Waléry, Comédien
@@ -128,7 +129,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Décor
 
 ```diff
-51 nouveau(x) signataire(s) aujourd'hui
+52 nouveau(x) signataire(s) aujourd'hui
 
 + Agorria Sim, menuisier
 + Alek Anouchka, peintre
@@ -173,6 +174,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Camus Sophie, régisseuse accessoires
 + Canat Emmanuel, ripper
 + Claveries Cécile, Peintre
++ Combemale Solène, repéreuse de décor cinéma
 + Dury Yann, Décorateur cinéma
 + Grandin Tali, Peintre
 + Horiot Romaric, Accessoiriste de plateau
@@ -194,7 +196,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Électricien.ne
 
 ```diff
-25 nouveau(x) signataire(s) aujourd'hui
+26 nouveau(x) signataire(s) aujourd'hui
 
 + Ader Guillaume, chef électricien
 + Aguenier Ciaran, électricien éclairagiste
@@ -220,13 +222,14 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Brumpter Nathan, électricien
 + Caillat-Grenier Flore, électricienne
 + Canavero Chiara, électricienne de plateau
++ Cros Marion, Electricienne
 + Eudeline Hubert, Électricien de prise de vue cinema
 ```
 
 ### Exploitation
 
 ```diff
-13 nouveau(x) signataire(s) aujourd'hui
+14 nouveau(x) signataire(s) aujourd'hui
 
 + Aubin Franck, projectionniste
 + Batlle Lou, assistant de programmation
@@ -238,6 +241,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Breta Jeremy, exploitant
 + Briot Laurence, programmatrice cinéma
 + Calfond Sarah, programmatrice
++ Cloquet Julien, Ingénieur du son, mixeurDemarche Benoit, programmateur
 + Girard Camille, programmateur
 + Neefs Arne, Projectionniste
 + Recalde Pascal, Exploitant
@@ -447,7 +451,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Réalisation
 
 ```diff
-134 nouveau(x) signataire(s) aujourd'hui
+135 nouveau(x) signataire(s) aujourd'hui
 
 + Abadia Régine, réalisatrice
 + Abbey Clément, réalisateur
@@ -551,6 +555,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Calame Timothée, scénariste, cinéaste et photographe
 + Cambourieu Lola, réalisatrice
 + Chevallier Benjamin, Réalisateur
++ Comby Lemaitre Théo, Réalisateur et acteur
 + Corno Anaïs, scripte
 + Delafosse Jeanne, réalisatrice
 + Delesti Thomas, 1er assistant réalisateur
@@ -660,7 +665,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Son
 
 ```diff
-50 nouveau(x) signataire(s) aujourd'hui
+51 nouveau(x) signataire(s) aujourd'hui
 
 + Aïchoun Samuel, mixeur son
 + Albert Elisha, perchwoman
@@ -707,6 +712,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Cabanillas Silvia, assistante son
 + Cahen Laura, autrice et compositrice
 + Cancelli Théo, Monteur son, mixeur
++ Cloquet Julien, Ingénieur du son, mixeurDemarche Benoit, programmateur
 + Eymeric Xavier, Compositeur
 + Gastinelli Vincent, Compositing Artist
 + Lebourg Aurélien, ingénieur du son
@@ -895,7 +901,7 @@ Chialva Julie, comédienne  
 Chrisp Arthur, Comédien
 Christin Thomas, Comédien
 Comar Esther, actrice
-Comby Lemaitre, Théo Réalisateur et acteur
+Comby Lemaitre Théo, Réalisateur et acteur
 Comte Anne, Comédienne
 Consigny Anne, actrice
 Constant Marie, comédienne
@@ -1394,8 +1400,7 @@ Claveries Cécile, Peintre
 Clercq-Roques Bertrand, Assistant décorateur Cinéma
 Cohen Pierre, accessoiriste de plateau
 Coleman Elio, Assistant décorateur
-Combemale Solène, Repéreuse de décor
-Combemale Solene, repéreuse de décor cinéma
+Combemale Solène, repéreuse de décor cinéma
 Combémorel-Bluntz Fanny, Décoratrice
 Consigny Pascale, cheffe décoratrice
 Coudurier Pauline, décoratrice
@@ -1690,6 +1695,7 @@ Chaude Jonathan, Electricien
 Choron Gaspard, électricien prises de vues Cinéma
 Corone Manon, cheffe électricienne
 Cras Leo, électricien de prise de vue
+Cros Marion, Electricienne
 Curt Nathan, Électricien
 Dabirand Ronan, électro
 Da Costa pais Lucilio, chef électricien
@@ -1853,7 +1859,7 @@ Cheyrouze Martin, projectionniste
 Chomard Perrine, programmatrice cinéma
 Choury-Magnol Thomas, programmateur et doctorant
 Claret Paul-Marie, Exploitant
-Cloquet Julien, Ingénieur du son, mixeur Demarche Benoit, programmateur
+Cloquet Julien, Ingénieur du son, mixeurDemarche Benoit, programmateur
 Cogan Emma, Projectionniste
 Coquillaud-Coudreau Philippe, Exploitant
 Cordier Virginie, Programmatrice spectacle
@@ -3049,7 +3055,6 @@ Daïen Dasi Inès, productrice
 David Jules, producteur
 Dedet Antonin, Producteur
 de Fonseca Sébastien, secrétaire général de festival et producteur
-de Fonseca Sébastien, secrétaire général, producteur
 Defosse Noémie, chargée de production
 Defossez Nathalie ,Productrice
 de Givry Félix, réalisateur et producteur
@@ -3519,8 +3524,7 @@ Coloma Tristan, Auteur-Réalisateur
 Colomer Henry, réalisateur
 Colson Anne, réalisatrice
 Colson Marion, réalisatrice
-Comby Lemaitre, Théo Réalisateur et acteur
-Comby Théo, réalisateur
+Comby Lemaitre Théo, Réalisateur et acteur
 Commaret Vincent, monteur et réalisateur
 Connor Eric, Réalisateur
 Connor Keri, Assistante mise en scène
@@ -4795,7 +4799,7 @@ Charuel Clémentine, Compositrice
 Chasles Justine, Autrice compositrice interprète
 Chauchat Théophile, assistant son
 Chu Arno, Perchman
-Cloquet Julien, Ingénieur du son, mixeur Demarche Benoit, programmateur
+Cloquet Julien, Ingénieur du son, mixeurDemarche Benoit, programmateur
 Collignon Médéric, Artiste musicien compositeur
 Collot Jean, Chef opérateur du son
 Comte Charlotte, ingénieure du son

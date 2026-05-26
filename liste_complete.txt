@@ -924,7 +924,7 @@ Clément Anatole, réalisateur
 Clément Aurélia, assistante caméra
 Clément Vanessa, Productrice
 Clercq-Roques Bertrand, Assistant décorateur Cinéma
-Cloquet Julien, Ingénieur du son, mixeur Demarche Benoit, programmateur
+Cloquet Julien, Ingénieur du son, mixeurDemarche Benoit, programmateur
 Coché Adrien, Assistant mise en scène
 Cochet Zita, Technicienne vidéo
 Cochinaire Célia, Scripte
@@ -964,11 +964,9 @@ Colson Marion, réalisatrice
 Comar Esther, actrice
 Combastel François, Chef constructeur
 Combelles Sébastien, Coordinateur eco-production / régisseur adjoint
-Combemale Solène, Repéreuse de décor
-Combemale Solene, repéreuse de décor cinéma
+Combemale Solène, repéreuse de décor cinéma
 Combémorel-Bluntz Fanny, Décoratrice
-Comby Lemaitre, Théo Réalisateur et acteur
-Comby Théo, réalisateur
+Comby Lemaitre Théo, Réalisateur et acteur
 Comiot Laurence, Cheffe monteuse
 Commaret Vincent, monteur et réalisateur
 Compagnon Lisa, Autrice de documentaire / scénariste
@@ -1039,6 +1037,7 @@ Creutz Barbara, Scénographe, realisatrice
 Creuzet Valérie, Peintre
 Crinquette-Yonnet Thomas, Cadreur / réalisateur
 Cristiani Jean-Noël, Réalisateur de films
+Cros Marion, Electricienne
 Csinidis Jean-Laurent, Producteur
 Cuau Emmanuelle, réalisatrice, scénariste
 Curtis Emily, monteuse
@@ -1135,7 +1134,6 @@ Defer Marion, Scénariste
 Defert Cédric, Réalisateur
 Defline Hélène, machiniste
 de Fonseca Sébastien, secrétaire général de festival et producteur
-de Fonseca Sébastien, secrétaire général, producteur
 Défossé Nicolas, réalisateur
 Defosse Noémie, chargée de production
 Defossez Nathalie ,Productrice
