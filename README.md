@@ -3,7 +3,7 @@
 
 [Cette page](https://wincelau.github.io/ZapperBolloreStats/) est générée automatiquement par [un script](https://github.com/wincelau/ZapperBolloreStats), elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic) de [la tribune Zapper Bolloré](https://www.liberation.fr/culture/depardon-binoche-haenel-600-professionnels-du-cinema-denoncent-lemprise-de-bollore-sur-le-septieme-art-20260511_FZW7WRBEXNDPVK5MAUTSFF6EHE).
 
-Dernière mis à jour : 2026-05-26 22:37:25
+Dernière mis à jour : 2026-05-26 23:07:33
 
 ## Regroument des signataires par catégorie de métiers
 
@@ -11,7 +11,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ||Total|Aujourd'hui|Hier|Avant-hier|
 |:-|-:|-:|-:|-:|
-|**Tous les signataires**|**4224**|**+577**|**+350**|**+0**|
+|**Tous les signataires**|**4223**|**+576**|**+350**|**+0**|
 |Acteur.ice, Comédien.ne|[445](#acteurice-comédienne-1)|[+63](#acteurice-comédienne)|||
 |Animation|[20](#animation-1)|[+4](#animation)|||
 |Casting|[38](#casting-1)|[+4](#casting)|||
@@ -24,7 +24,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 |Machiniste|[80](#machiniste-1)|[+7](#machiniste)|||
 |Post production|[299](#post-production-1)|[+44](#post-production)|||
 |Production|[314](#production-1)|[+32](#production)|||
-|Réalisation|[1051](#réalisation-1)|[+135](#réalisation)|||
+|Réalisation|[1050](#réalisation-1)|[+134](#réalisation)|||
 |Régie|[154](#régie-1)|[+27](#régie)|||
 |Scénariste|[210](#scénariste-1)|[+31](#scénariste)|||
 |Son|[324](#son-1)|[+51](#son)|||
@@ -32,7 +32,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ## Derniers signataires 
 
-577 nouveau(x) signataire(s) aujourd'hui
+576 nouveau(x) signataire(s) aujourd'hui
 
 ### Acteur.ice, Comédien.ne
 
@@ -451,7 +451,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Réalisation
 
 ```diff
-135 nouveau(x) signataire(s) aujourd'hui
+134 nouveau(x) signataire(s) aujourd'hui
 
 + Abadia Régine, réalisatrice
 + Abbey Clément, réalisateur
@@ -582,7 +582,6 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Salomé Claire Actrice, réalisatrice
 + Samoqueira Manuel, réalisateur
 + Schupak Jonathan, Cinéaste
-+ Solnitzki Anton, Auteur - Réalisateur
 + Solnitzki Anton, Cinéaste
 + Thiéry Natacha, Réalisatrice
 + Todorov Léa, cinéaste
@@ -4209,7 +4208,6 @@ Sitta Jan, Réalisateur
 Six Malou, Chercheuse, réalisatrice, programmatrice
 Slama Laurent, réalisateur
 Sobel Bernard, Metteur en scène
-Solnitzki Anton, Auteur - Réalisateur
 Solnitzki Anton, Cinéaste
 Sorel Ysé, Réalisatrice, scénariste
 Speno Joffrey, artiste, cinéaste et programmateur
