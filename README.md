@@ -12,22 +12,22 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ||Total|Aujourd'hui|Hier|Avant-hier|
 |:-|-:|-:|-:|-:|
 |**Tous les signataires**|**4267**|**+44**|**+177**|**+347**|
-|Acteur.ice, Comédien.ne|[453](#acteurice-comédienne-1)|[+50](#acteurice-comédienne)|||
-|Animation|[21](#animation-1)|[+5](#animation)|||
-|Casting|[38](#casting-1)|[+5](#casting)|||
-|Décor|[288](#décor-1)|[+38](#décor)|||
-|Distribution|[24](#distribution-1)|[+3](#distribution)|||
-|Électricien.ne|[151](#Électricienne-1)|[+9](#Électricienne)|||
-|Exploitation|[220](#exploitation-1)|[+18](#exploitation)|||
-|Habillage, maquillage, coiffure|[122](#habillage-maquillage-coiffure-1)|[+19](#habillage-maquillage-coiffure)|||
-|Image|[395](#image-1)|[+53](#image)|||
-|Machiniste|[80](#machiniste-1)|[+11](#machiniste)|||
-|Post production|[299](#post-production-1)|[+25](#post-production)|||
-|Production|[318](#production-1)|[+31](#production)|||
-|Réalisation|[1060](#réalisation-1)|[+95](#réalisation)|||
-|Régie|[159](#régie-1)|[+23](#régie)|||
-|Scénariste|[211](#scénariste-1)|[+25](#scénariste)|||
-|Son|[325](#son-1)|[+36](#son)|||
+|Acteur.ice, Comédien.ne|[453](#acteurice-comédienne-1)|[+8](#acteurice-comédienne)|||
+|Animation|[21](#animation-1)|[+1](#animation)|||
+|Casting|[38](#casting-1)|[+0](#casting)|||
+|Décor|[288](#décor-1)|[+1](#décor)|||
+|Distribution|[24](#distribution-1)|[+0](#distribution)|||
+|Électricien.ne|[151](#Électricienne-1)|[+1](#Électricienne)|||
+|Exploitation|[220](#exploitation-1)|[+4](#exploitation)|||
+|Habillage, maquillage, coiffure|[122](#habillage-maquillage-coiffure-1)|[+1](#habillage-maquillage-coiffure)|||
+|Image|[395](#image-1)|[+6](#image)|||
+|Machiniste|[80](#machiniste-1)|[+0](#machiniste)|||
+|Post production|[299](#post-production-1)|[+0](#post-production)|||
+|Production|[318](#production-1)|[+4](#production)|||
+|Réalisation|[1060](#réalisation-1)|[+10](#réalisation)|||
+|Régie|[159](#régie-1)|[+5](#régie)|||
+|Scénariste|[211](#scénariste-1)|[+1](#scénariste)|||
+|Son|[325](#son-1)|[+1](#son)|||
 |Autres|[534](#autres-1)|[+58](#autres)|||
 
 ## Derniers signataires 
