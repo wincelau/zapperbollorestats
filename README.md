@@ -3,7 +3,7 @@
 
 [Cette page](https://wincelau.github.io/ZapperBolloreStats/) est générée automatiquement par [un script](https://github.com/wincelau/ZapperBolloreStats), elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic) de [la tribune Zapper Bolloré](https://www.liberation.fr/culture/depardon-binoche-haenel-600-professionnels-du-cinema-denoncent-lemprise-de-bollore-sur-le-septieme-art-20260511_FZW7WRBEXNDPVK5MAUTSFF6EHE).
 
-Dernière mis à jour : 2026-05-27 10:11:32
+Dernière mis à jour : 2026-05-27 10:41:48
 
 ## Regroument des signataires par catégorie de métiers
 
@@ -11,33 +11,33 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ||Total|Aujourd'hui|Hier|Avant-hier|
 |:-|-:|-:|-:|-:|
-|**Tous les signataires**|**4240**|**+128**|**+576**|**+350**|
-|Acteur.ice, Comédien.ne|[449](#acteurice-comédienne-1)|[+22](#acteurice-comédienne)|||
-|Animation|[20](#animation-1)|[+0](#animation)|||
+|**Tous les signataires**|**4250**|**+238**|**+576**|**+350**|
+|Acteur.ice, Comédien.ne|[452](#acteurice-comédienne-1)|[+30](#acteurice-comédienne)|||
+|Animation|[20](#animation-1)|[+2](#animation)|||
 |Casting|[38](#casting-1)|[+3](#casting)|||
-|Décor|[287](#décor-1)|[+7](#décor)|||
-|Distribution|[24](#distribution-1)|[+1](#distribution)|||
-|Électricien.ne|[151](#Électricienne-1)|[+3](#Électricienne)|||
-|Exploitation|[216](#exploitation-1)|[+1](#exploitation)|||
-|Habillage, maquillage, coiffure|[121](#habillage-maquillage-coiffure-1)|[+3](#habillage-maquillage-coiffure)|||
-|Image|[393](#image-1)|[+21](#image)|||
-|Machiniste|[80](#machiniste-1)|[+1](#machiniste)|||
-|Post production|[300](#post-production-1)|[+10](#post-production)|||
-|Production|[316](#production-1)|[+7](#production)|||
-|Réalisation|[1053](#réalisation-1)|[+25](#réalisation)|||
-|Régie|[155](#régie-1)|[+7](#régie)|||
-|Scénariste|[211](#scénariste-1)|[+6](#scénariste)|||
-|Son|[325](#son-1)|[+12](#son)|||
-|Autres|[531](#autres-1)|[+17](#autres)|||
+|Décor|[287](#décor-1)|[+20](#décor)|||
+|Distribution|[24](#distribution-1)|[+2](#distribution)|||
+|Électricien.ne|[151](#Électricienne-1)|[+6](#Électricienne)|||
+|Exploitation|[218](#exploitation-1)|[+9](#exploitation)|||
+|Habillage, maquillage, coiffure|[121](#habillage-maquillage-coiffure-1)|[+7](#habillage-maquillage-coiffure)|||
+|Image|[394](#image-1)|[+29](#image)|||
+|Machiniste|[80](#machiniste-1)|[+2](#machiniste)|||
+|Post production|[300](#post-production-1)|[+14](#post-production)|||
+|Production|[317](#production-1)|[+19](#production)|||
+|Réalisation|[1055](#réalisation-1)|[+53](#réalisation)|||
+|Régie|[156](#régie-1)|[+13](#régie)|||
+|Scénariste|[211](#scénariste-1)|[+12](#scénariste)|||
+|Son|[325](#son-1)|[+16](#son)|||
+|Autres|[532](#autres-1)|[+31](#autres)|||
 
 ## Derniers signataires 
 
-128 nouveau(x) signataire(s) aujourd'hui
+238 nouveau(x) signataire(s) aujourd'hui
 
 ### Acteur.ice, Comédien.ne
 
 ```diff
-22 nouveau(x) signataire(s) aujourd'hui
+30 nouveau(x) signataire(s) aujourd'hui
 
 + Caillaud Simon, comédien
 + Candellier Anthony, comédien
@@ -61,13 +61,23 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Chevillotte Louise, comédienne et metteuse en scène
 + Chrisp Arthur, comédien
 + Christin Thomas, comédien
++ Cizeron George, comédien
++ Claude Coraline, actrice
++ Comby Lemaitre Théo, réalisateur et acteur
++ Comte Anne, comédienne
++ Córdova Paola, comédienne
++ Cornu Solene, comédienne
++ Crossouard Gabin, comédien
++ D’Erneville Floriane, actrice
 ```
 
 ### Animation
 
 ```diff
-0 nouveau(x) signataire(s) aujourd'hui
+2 nouveau(x) signataire(s) aujourd'hui
 
++ Cortier Marine, animatrice 2D
++ Créhange Joseph, animateur
 ```
 
 ### Casting
@@ -83,7 +93,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Décor
 
 ```diff
-7 nouveau(x) signataire(s) aujourd'hui
+20 nouveau(x) signataire(s) aujourd'hui
 
 + Caperna Hélène, cheffe peintre
 + Castelain Julie, accessoiriste plateau
@@ -92,48 +102,77 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Champel Mathieu, peintre décors
 + Charrié Nina, peintre déco
 + Ciavaldini Marjolaine, cheffe décoratrice
++ Clauzier Benjamin, repéreur de décors et régisseur général
++ Claveries Cécile, peintre
++ Clercq-Roques Bertrand, assistant décorateur cinéma
++ Coleman Elio, assistant décorateur
++ Combemale Solène, repéreuse de décors cinéma
++ Combémorel-Bluntz Fanny, décoratrice
++ Courreau Nelly, assistante déco
++ Courtois Edouard, peintre en lettres faux-bois
++ Couzon Christophe, chef décorateur
++ Creuzet Valérie, peintre
++ Daculsi Estelle, assistante accessoiriste
++ Dagnas Axel, accessoiriste plateau
++ D’ovidio Catherine, cheffe décoratrice
 ```
 
 ### Distribution
 
 ```diff
-1 nouveau(x) signataire(s) aujourd'hui
+2 nouveau(x) signataire(s) aujourd'hui
 
 + Choukroun Jacques, distributeur et maître de conférence cinéma
++ Crance Philouze Coline, distributrice
 ```
 
 ### Électricien.ne
 
 ```diff
-3 nouveau(x) signataire(s) aujourd'hui
+6 nouveau(x) signataire(s) aujourd'hui
 
 + Chaude Jonathan, électricien
 + Chevrier Constance, électricienne
 + Choron Gaspard, électricien prises de vues
++ Cros Marion, électricienne
++ Curt Nathan, électricien
++ Dabirand Ronan, électricien
 ```
 
 ### Exploitation
 
 ```diff
-1 nouveau(x) signataire(s) aujourd'hui
+9 nouveau(x) signataire(s) aujourd'hui
 
 + Capello Benoît, exploitant de cinéma indépendant
++ Claret Paul-Marie, exploitant
++ Cloquet Julien, ingénieur du son et mixeurDemarche Benoit, programmateur
++ Cogan Emma, projectionniste
++ Coquillaud-Coudreau Philippe, exploitant
++ Cordier Virginie, programmatrice spectacle
++ Cossy Laure-Anne, exploitante
++ Czarny Marion, programmatrice
++ Da Cruz Araujo Aniceto, projectionniste
 ```
 
 ### Habillage, maquillage, coiffure
 
 ```diff
-3 nouveau(x) signataire(s) aujourd'hui
+7 nouveau(x) signataire(s) aujourd'hui
 
 + Caravati Marilou, costumière
 + Charchaude Laurent, régisseur costume
 + Chemtov Bastien, régisseur costume
++ Colet Marie, maquilleuse
++ Colin Florence, maquilleuse
++ Collobert Céline, costumière
++ Crétault Odile, costumière
 ```
 
 ### Image
 
 ```diff
-21 nouveau(x) signataire(s) aujourd'hui
+29 nouveau(x) signataire(s) aujourd'hui
 
 + Cancoin Melen, assistant caméra
 + Caniaux Laure, 1e assistante OPV
@@ -156,20 +195,29 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Chauvin Paul, directeur de la photographie
 + Chénieux Louis, assistant caméra
 + Cherix Pepita, cheffe opératrice et réalisatrice
++ Cognet Paul, assistant-opérateur
++ Collot Jean, chef opérateur du son
++ Colomer Pierre, photographe et éclairagiste
++ Conduché Yanis, 3e assistant caméra
++ Crapoulet Thierry, régisseur lumière
++ Cravatte Muriel, directrice de la photo et réalisatrice
++ Crinquette-Yonnet Thomas, cadreur et réalisateur
++ Dabry Claire, 1e assistante opérateur prises de vues
 ```
 
 ### Machiniste
 
 ```diff
-1 nouveau(x) signataire(s) aujourd'hui
+2 nouveau(x) signataire(s) aujourd'hui
 
 + Chaudagne Benjamin, machiniste
++ Cointre Charlie, machiniste
 ```
 
 ### Post production
 
 ```diff
-10 nouveau(x) signataire(s) aujourd'hui
+14 nouveau(x) signataire(s) aujourd'hui
 
 + Cancelli Théo, monteur son et mixeur
 + Carteret Marie-Pomme, monteuse
@@ -181,12 +229,16 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Charrier Maxime, étalonneur
 + Chavance Pascale, monteur
 + Chigot Julien, monteur
++ Comiot Laurence, cheffe monteuse
++ Conort Antoine, monteur
++ Corroler Marius, assistant monteur
++ Cotte Camille, monteuse
 ```
 
 ### Production
 
 ```diff
-7 nouveau(x) signataire(s) aujourd'hui
+19 nouveau(x) signataire(s) aujourd'hui
 
 + Carré Jean-Michel, auteur, réalisateur et producteur
 + Cavalier Laurent, producteur exécutif cinéma et audiovisuel
@@ -195,12 +247,24 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Chaussel Stéphane, assistant de production
 + Chevrier Agathe, productrice
 + Chretien Maitena, directrice de production
++ Clairet Sara, directrice de production
++ Claisse Ilya, directeur de Production
++ Clément Vanessa, productrice
++ Cohen Fiona, productrice
++ Combelles Sébastien, coordinateur d’éco-production et régisseur adjoint
++ Coulibaly Souleymane, journaliste et producteur radio
++ Coulon Quentin, producteur
++ Courtin Christophe, directeur de production
++ Cpuzis Tatiana, chargée de production
++ Cretagne Thierry, directeur de production
++ Csinidis Jean-Laurent, producteur
++ Daguerre Fabien, directeur de postproduction
 ```
 
 ### Réalisation
 
 ```diff
-25 nouveau(x) signataire(s) aujourd'hui
+53 nouveau(x) signataire(s) aujourd'hui
 
 + Capeĺle Aline, réalisatrice
 + Carcedo Zazie, 1e assistante à la réalisation
@@ -227,12 +291,40 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Chour David, assistant-réalisateur
 + Chrétien Lou, réalisatrice
 + Ciccolella Claude, réalisateur
++ Civeyrac Jean-Paul, réalisateur
++ Claret Boris, réalisateur
++ Coché Adrien, assistant mise en scène
++ Cochinaire Célia, scripte
++ Coda Lucile, réalisatrice
++ Cohen Cleo, réalisatrice
++ Cohendet Paul, scripte
++ Cohen Grégory, réalisateur
++ Cohen Hervé, réalisateur
++ Coillard Mael, réalisateur
++ Coloma Tristan, auteur-Réalisateur
++ Comby Lemaitre Théo, réalisateur et acteur
++ Connor Eric, réalisateur
++ Connor Keri, assistante mise en scène
++ Correa Stéphane, réalisateur de documentaire
++ Coss Simon, auteur et réalisateur
++ Cotard Daniel, cinéaste
++ Couette Anaïs, assistante réalisatrice
++ Coulon Lorris, réalisateur
++ Courcier Emeline, réalisatrice
++ Cousin Orsa, assistante mise en scène
++ Couture Léo, réalisateur
++ Cravatte Muriel, directrice de la photo et réalisatrice
++ Creutz Barbara, scénographe et réalisatrice
++ Crinquette-Yonnet Thomas, cadreur et réalisateur
++ Cristiani Jean-Noël, réalisateur de films
++ Cuau Emmanuelle, réalisatrice et scénariste
++ Da costa David, auteur et réalisateur
 ```
 
 ### Régie
 
 ```diff
-7 nouveau(x) signataire(s) aujourd'hui
+13 nouveau(x) signataire(s) aujourd'hui
 
 + Caillibot Stan, régisseur
 + Carlat Chloé, régisseuse
@@ -241,12 +333,18 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Charchaude Laurent, régisseur costume
 + Chemtov Bastien, régisseur costume
 + Cherdo Titi, régisseur d&
++ Cittone Claire, auxiliaire régie cinéma
++ Clauzier Benjamin, repéreur de décors et régisseur général
++ Cochet Zita, technicienne vidéo
++ Combelles Sébastien, coordinateur d’éco-production et régisseur adjoint
++ Cramesnil de Laleu Maëla, régisseuse d’extérieur
++ Crapoulet Thierry, régisseur lumière
 ```
 
 ### Scénariste
 
 ```diff
-6 nouveau(x) signataire(s) aujourd'hui
+12 nouveau(x) signataire(s) aujourd'hui
 
 + Cardot Floriane, réalisatrice, scénariste et photographe
 + Carpentier Alice, scénariste
@@ -254,12 +352,18 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Chaton Félicité, comédienne et metteuse en scène
 + Chêne Marie, assistante mise en scène
 + Chevillotte Louise, comédienne et metteuse en scène
++ Coché Adrien, assistant mise en scène
++ Compagnon Lisa, autrice de documentaire / scénariste
++ Connor Keri, assistante mise en scène
++ Cousin Orsa, assistante mise en scène
++ Creseveur Christian, scénariste
++ Cuau Emmanuelle, réalisatrice et scénariste
 ```
 
 ### Son
 
 ```diff
-12 nouveau(x) signataire(s) aujourd'hui
+16 nouveau(x) signataire(s) aujourd'hui
 
 + Cancelli Théo, monteur son et mixeur
 + Carron César, perchman
@@ -273,12 +377,16 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Charuel Clémentine, compositrice
 + Chasles Justine, autrice compositrice interprète
 + Chu Arno, perchman
++ Cloquet Julien, ingénieur du son et mixeurDemarche Benoit, programmateur
++ Collignon Médéric, artiste musicien compositeur
++ Collot Jean, chef opérateur du son
++ Esposito Julien, ingénieur du son
 ```
 
 ### Autres
 
 ```diff
-17 nouveau(x) signataire(s) aujourd'hui
+31 nouveau(x) signataire(s) aujourd'hui
 
 + Carpentier Muriel, traductrice interprète
 + Carretero Alexandre, agent polyvalent de cinéma
@@ -297,6 +405,20 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Chavanon Valérie, coordinatrice animalière cinéma
 + Chotard Antoine, eégisseur
 + Chrétien Benoit, chargé de mission en festival
++ Cichereau Isabelle, artiste
++ Ciment Gilles, critique
++ Clapeau Jean-Baptiste, délégué général de festival
++ Clémenceau Adrien, artiste-auteur
++ Coatanea William, doctorant en cinéma
++ Cohen Almog, travailleuse de festival de cinéma
++ Collard Gérald, technicien de maintenance
++ Collette Jérôme, narrative designer
++ Colou François, graphiste et designer d&
++ Combastel François, chef constructeur
++ Coquille-Chambel Marie, doctorante et intermittente du spectacle
++ Costes Olivia, technicienne
++ Cotinat Vincent, journaliste
++ Coué Maud, ensemblière cinéma
 ```
 
 
@@ -402,14 +524,17 @@ Chevillotte Louise, comédienne et metteuse en scène
 Chialva Julie, comédienne  
 Chrisp Arthur, comédien
 Christin Thomas, comédien
+Cizeron George, comédien
+Claude Coraline, actrice
 Comar Esther, actrice
-Comby Lemaitre Théo, Réalisateur et acteur
-Comte Anne, Comédienne
+Comby Lemaitre Théo, réalisateur et acteur
+Comte Anne, comédienne
 Consigny Anne, actrice
 Constant Marie, comédienne
-Córdova Paola, Comédienne
-Cornu Solene, Comédienne
+Córdova Paola, comédienne
+Cornu Solene, comédienne
 Cottu Delphine, comédienne
+Crossouard Gabin, comédien
 Dalric Olivia, actrice
 Dandoy Elisabeth, Autrice, Comédienne, Metteuse en scène, réalisatrice
 Daniel Lola, Actrice
@@ -429,7 +554,7 @@ Delwit Étienne, Comédien
 de Mezamat Aliénor, Comédienne et réalisatrice
 Denarnaud Marie, comédienne
 Depeyre Marine, Comédienne, metteuse en scène
-D’Erneville Floriane, Actrice
+D’Erneville Floriane, actrice
 Devilla Rémi, comédien
 Diallo Judy, Comédien
 Di Domenico Fabio, Comédien
@@ -766,8 +891,8 @@ Balland Théophile, décorateur film d’animation
 Bauguil Paul, animateur 2D/3D
 Bautista Damien, dessinateur 3D et graphiste
 Castelli Nicolas, graphiste 3D
-Cortier Marine, Animatrice 2D
-Créhange Joseph, Animateur
+Cortier Marine, animatrice 2D
+Créhange Joseph, animateur
 Dorey Camille, Animatrice 2d
 Ducarteron Clément, Superviseur 3D
 Lainé Audrey, Animatrice 3D
@@ -896,21 +1021,21 @@ Chabrand Gilles, accessoiriste aux meubles
 Champel Mathieu, peintre décors
 Charrié Nina, peintre déco
 Ciavaldini Marjolaine, cheffe décoratrice
-Clauzier Benjamin, Repéreur de décors et régisseur général
-Claveries Cécile, Peintre
-Clercq-Roques Bertrand, Assistant décorateur Cinéma
+Clauzier Benjamin, repéreur de décors et régisseur général
+Claveries Cécile, peintre
+Clercq-Roques Bertrand, assistant décorateur cinéma
 Cohen Pierre, accessoiriste de plateau
-Coleman Elio, Assistant décorateur
-Combemale Solène, repéreuse de décor cinéma
-Combémorel-Bluntz Fanny, Décoratrice
+Coleman Elio, assistant décorateur
+Combemale Solène, repéreuse de décors cinéma
+Combémorel-Bluntz Fanny, décoratrice
 Consigny Pascale, cheffe décoratrice
 Coudurier Pauline, décoratrice
-Courreau Nelly, Assistante déco
-Courtois Edouard, Peintre en lettres faux-bois
-Couzon Christophe, Chef décorateur
-Creuzet Valérie, Peintre
-Daculsi Estelle, Assistante Accessoiriste
-Dagnas Axel,  accessoiriste plateau
+Courreau Nelly, assistante déco
+Courtois Edouard, peintre en lettres faux-bois
+Couzon Christophe, chef décorateur
+Creuzet Valérie, peintre
+Daculsi Estelle, assistante accessoiriste
+Dagnas Axel, accessoiriste plateau
 Dallera Axele, ripper
 David Emilie, Peintre
 Deboaisne Daphné, ensemblière, décoratrice
@@ -931,7 +1056,7 @@ Diaz Auguste, chef décorateur
 Dorado Olivia, Enseignante-chercheuse en cinéma, décoratrice
 Dore Antoine, Décorateur
 Doriane Fréreau, décoratrice
-D’ovidio Catherine, Cheffe décoratrice
+D’ovidio Catherine, cheffe décoratrice
 Drouhot Vincent, Peintre décorateur
 du Bot Louis, rippeur
 Ducos Thomas, Chef decorateur
@@ -1132,7 +1257,7 @@ Barrau Albane, distributrice
 Beaufils Marie, distributrice et médiatrice indépendante
 Chautant Clément, acquisitions
 Choukroun Jacques, distributeur et maître de conférence cinéma
-Crance Philouze Coline, Distributeur
+Crance Philouze Coline, distributrice
 de Lestapis Lillou, distributrice
 Deveau Jean-François, distributeur cinéma
 Dommerc, producteur et distributeur
@@ -1195,9 +1320,9 @@ Chevrier Constance, électricienne
 Choron Gaspard, électricien prises de vues
 Corone Manon, cheffe électricienne
 Cras Leo, électricien de prise de vue
-Cros Marion, Electricienne
-Curt Nathan, Électricien
-Dabirand Ronan, électro
+Cros Marion, électricienne
+Curt Nathan, électricien
+Dabirand Ronan, électricien
 Da Costa pais Lucilio, chef électricien
 Dardelet Hugo,  électricien
 Davy Charlotte, électricienne de prises de vue
@@ -1358,13 +1483,15 @@ Charbit Elsa, programmatrice
 Cheyrouze Martin, projectionniste
 Chomard Perrine, programmatrice cinéma
 Choury-Magnol Thomas, programmateur et doctorant
-Claret Paul-Marie, Exploitant
-Cloquet Julien, Ingénieur du son, mixeurDemarche Benoit, programmateur
-Cogan Emma, Projectionniste
-Coquillaud-Coudreau Philippe, Exploitant
-Cordier Virginie, Programmatrice spectacle
+Claret Paul-Marie, exploitant
+Cloquet Julien, ingénieur du son et mixeurDemarche Benoit, programmateur
+Cogan Emma, projectionniste
+Coquillaud-Coudreau Philippe, exploitant
+Cordier Virginie, programmatrice spectacle
+Cossy Laure-Anne, exploitante
 Courgeon Victor, directeur de salle de cinéma
-Da Cruz Araujo Aniceto, Projectionniste
+Czarny Marion, programmatrice
+Da Cruz Araujo Aniceto, projectionniste
 Debruyère Nasser, projectionniste
 de Calan Louise, programmatrice
 De chaumont Benoît, Exploitant
@@ -1561,11 +1688,11 @@ Brossard Ghénaelle, costumière
 Caravati Marilou, costumière
 Charchaude Laurent, régisseur costume
 Chemtov Bastien, régisseur costume
-Colet Marie, Maquilleuse
-Colin Florence, Maquilleuse
-Collobert Céline, Costumière
+Colet Marie, maquilleuse
+Colin Florence, maquilleuse
+Collobert Céline, costumière
 Constantinides Michelle, chef maquilleuse
-Crétault Odile, Costumière
+Crétault Odile, costumière
 Danglades Maë-Li, Costumière
 De Balthasar Albane, Maquilleuse
 De Beco Edith, Costumière
@@ -1766,14 +1893,15 @@ Chénieux Louis, assistant caméra
 Cherix Pepita, cheffe opératrice et réalisatrice
 Chevrin Remy, directeur de la photographie
 Clément Aurélia, assistante caméra
-Cognet Paul, Assistant-opérateur
-Collot Jean, Chef opérateur du son
-Colomer Pierre, Photographe et éclairagiste
-Conduché Yanis, 3ème assistant caméra
+Cognet Paul, assistant-opérateur
+Collot Jean, chef opérateur du son
+Colomer Pierre, photographe et éclairagiste
+Conduché Yanis, 3e assistant caméra
 Couillard François Xavier, chef opérateur son
-Cravatte Muriel, directrice de la photo, réalisatrice
-Crinquette-Yonnet Thomas, Cadreur / réalisateur
-Dabry Claire, 1ère assistante opérateur prises de vues
+Crapoulet Thierry, régisseur lumière
+Cravatte Muriel, directrice de la photo et réalisatrice
+Crinquette-Yonnet Thomas, cadreur et réalisateur
+Dabry Claire, 1e assistante opérateur prises de vues
 Darnet Muriel, Operateur de prises de vues
 Dean Erwan, Directeur de la Photographie
 Deblonde Nicolas, Cadreur
@@ -2076,7 +2204,7 @@ Brémond Rémi, machiniste
 Broyer Edwin, chef machiniste
 Cantier Clément, machiniste de prise de vue
 Chaudagne Benjamin, machiniste
-Cointre Charlie, Machiniste
+Cointre Charlie, machiniste
 Darvogne Margot, Machiniste de construction
 David Thibault, Machiniste
 Defline Hélène, machiniste
@@ -2225,12 +2353,12 @@ Chapelle Boris, monteur son
 Charrier Maxime, étalonneur
 Chavance Pascale, monteur
 Chigot Julien, monteur
-Comiot Laurence, Cheffe monteuse
+Comiot Laurence, cheffe monteuse
 Commaret Vincent, monteur et réalisateur
-Conort Antoine, Monteur
+Conort Antoine, monteur
 Conti Doriane, monteuse
-Corroler Marius, Assistant monteur
-Cotte Camille, Monteuse
+Corroler Marius, assistant monteur
+Cotte Camille, monteuse
 Curtis Emily, monteuse
 Dario Isabelle, Réalisatrice - Monteuse
 Darras Laure-Anne, monteuse son
@@ -2538,22 +2666,23 @@ Chicoteau Lou, productrice
 Chillón Eva, productrice
 Chretien Maitena, directrice de production
 Cittanova Raphaëlle, productrice
-Clairet Sara, Directrice de production
-Claisse Ilya, Directeur de Production
-Clément Vanessa, Productrice
+Clairet Sara, directrice de production
+Claisse Ilya, directeur de Production
+Clément Vanessa, productrice
 Cohen Dan, technicien de post-production
-Cohen Fiona, Productrice
+Cohen Fiona, productrice
 Cohen-Solal Anne, directrice de production
-Combelles Sébastien, Coordinateur eco-production / régisseur adjoint
+Combelles Sébastien, coordinateur d’éco-production et régisseur adjoint
 Copans Richard, producteur
 Corman Lucie, productrice
 Coucoureux Clément, critique et producteur podcast
-Coulibaly Souleymane, Journaliste Producteur Radio
-Courtin Christophe, Directeur de production
-Cpuzis Tatiana, chargée de Production
-Cretagne Thierry, Directeur de production
-Csinidis Jean-Laurent, Producteur
-Daguerre Fabien, Directeur de postproduction
+Coulibaly Souleymane, journaliste et producteur radio
+Coulon Quentin, producteur
+Courtin Christophe, directeur de production
+Cpuzis Tatiana, chargée de production
+Cretagne Thierry, directeur de production
+Csinidis Jean-Laurent, producteur
+Daguerre Fabien, directeur de postproduction
 Daguerre Sarah, Chargée de production
 Dahout Laure, productrice
 Daïen Dasi Inès, productrice
@@ -3012,50 +3141,52 @@ Chou Davy, réalisateur
 Chour David, assistant-réalisateur
 Chrétien Lou, réalisatrice
 Ciccolella Claude, réalisateur
-Civeyrac Jean Paul, réalisateur
-Claret Boris, Réalisateur
+Civeyrac Jean-Paul, réalisateur
+Claret Boris, réalisateur
 Clayssen Lucie, réalisatrice
 Clément Anatole, réalisateur
-Coché Adrien, Assistant mise en scène
-Cochinaire Célia, Scripte
-Cohen Cleo, Réalisatrice
-Cohendet Paul, Scripte
-Cohen Grégory, Réalisateur
-Cohen Hervé, Réalisateur
-Coillard Mael, Réalisateur
+Coché Adrien, assistant mise en scène
+Cochinaire Célia, scripte
+Coda Lucile, réalisatrice
+Cohen Cleo, réalisatrice
+Cohendet Paul, scripte
+Cohen Grégory, réalisateur
+Cohen Hervé, réalisateur
+Coillard Mael, réalisateur
 Coixet Isabelle, réalisatrice
 Colineau Thomas, scénariste et réalisateur
 Colin Jérôme, réalisateur
 Colin Julia, scripte
-Coloma Tristan, Auteur-Réalisateur
+Coloma Tristan, auteur-Réalisateur
 Colomer Henry, réalisateur
 Colson Anne, réalisatrice
 Colson Marion, réalisatrice
-Comby Lemaitre Théo, Réalisateur et acteur
+Comby Lemaitre Théo, réalisateur et acteur
 Commaret Vincent, monteur et réalisateur
-Connor Eric, Réalisateur
-Connor Keri, Assistante mise en scène
+Connor Eric, réalisateur
+Connor Keri, assistante mise en scène
 Contre Jean, mise en scène
 Convert Mona, réalisatrice
 Corai-Lopez Aude, scripte
 Corno Anaïs, scripte
-Correa Stéphane, Réalisateur de documentaire
-Coss Simon, Auteur, Réalisateur
+Correa Stéphane, réalisateur de documentaire
+Coss Simon, auteur et réalisateur
 Costes Coline, réalisatrice
+Cotard Daniel, cinéaste
 Couchard Fabrice, assistant réalisateur
-Couette Anaïs, Assistante réalisatrice
-Coulon Lorris, Réalisateur
-Courcier Emeline, Réalisatrice
+Couette Anaïs, assistante réalisatrice
+Coulon Lorris, réalisateur
+Courcier Emeline, réalisatrice
 Cousin Gilles, réalisateur
-Cousin Orsa, Assistante mise en scène
-Couture Léo, Réalisateur
-Cravatte Muriel, directrice de la photo, réalisatrice
-Creutz Barbara, Scénographe, realisatrice
-Crinquette-Yonnet Thomas, Cadreur / réalisateur
-Cristiani Jean-Noël, Réalisateur de films
-Cuau Emmanuelle, réalisatrice, scénariste
+Cousin Orsa, assistante mise en scène
+Couture Léo, réalisateur
+Cravatte Muriel, directrice de la photo et réalisatrice
+Creutz Barbara, scénographe et réalisatrice
+Crinquette-Yonnet Thomas, cadreur et réalisateur
+Cristiani Jean-Noël, réalisateur de films
+Cuau Emmanuelle, réalisatrice et scénariste
 Dacheux Michaël, réalisateur
-Da costa David, auteur, réalisateur
+Da costa David, auteur et réalisateur
 Dahmani Valentin, Assistant mise en scène
 Daigné Nadine, Assistante de réalisation
 Dampierre Sylvaine, Réalisatrice
@@ -3881,11 +4012,12 @@ Causin Joffrey, régisseur général
 Charchaude Laurent, régisseur costume
 Chemtov Bastien, régisseur costume
 Cherdo Titi, régisseur d&
-Cittone Claire , auxiliaire Régie Cinéma
-Clauzier Benjamin, Repéreur de décors et régisseur général
-Cochet Zita, Technicienne vidéo
-Combelles Sébastien, Coordinateur eco-production / régisseur adjoint
-Cramesnil de Laleu Maëla, Régisseuse d’extérieur
+Cittone Claire, auxiliaire régie cinéma
+Clauzier Benjamin, repéreur de décors et régisseur général
+Cochet Zita, technicienne vidéo
+Combelles Sébastien, coordinateur d’éco-production et régisseur adjoint
+Cramesnil de Laleu Maëla, régisseuse d’extérieur
+Crapoulet Thierry, régisseur lumière
 David Eloïse, Régisseuse
 Degrange Michel, Régisseur général cinéma
 Dekonink Jeanne, Régisseuse d&
@@ -4050,16 +4182,16 @@ Chevillotte Louise, comédienne et metteuse en scène
 Choquart Alain, scénariste et réalisateur
 Chosson Pierre, scénariste
 Ciennik Anna, scénariste
-Coché Adrien, Assistant mise en scène
+Coché Adrien, assistant mise en scène
 Cohen-Yanay Aaron, scénariste
 Colineau Thomas, scénariste et réalisateur
-Compagnon Lisa, Autrice de documentaire / scénariste
+Compagnon Lisa, autrice de documentaire / scénariste
 Compagnon Pierre, scénariste
-Connor Keri, Assistante mise en scène
+Connor Keri, assistante mise en scène
 Contre Jean, mise en scène
-Cousin Orsa, Assistante mise en scène
-Creseveur Christian, Scénariste
-Cuau Emmanuelle, réalisatrice, scénariste
+Cousin Orsa, assistante mise en scène
+Creseveur Christian, scénariste
+Cuau Emmanuelle, réalisatrice et scénariste
 Dahmani Valentin, Assistant mise en scène
 Dandoy Elisabeth, Autrice, Comédienne, Metteuse en scène, réalisatrice
 Dang-Thaï Duong, Scénariste
@@ -4305,9 +4437,9 @@ Charuel Clémentine, compositrice
 Chasles Justine, autrice compositrice interprète
 Chauchat Théophile, assistant son
 Chu Arno, perchman
-Cloquet Julien, Ingénieur du son, mixeurDemarche Benoit, programmateur
-Collignon Médéric, Artiste musicien compositeur
-Collot Jean, Chef opérateur du son
+Cloquet Julien, ingénieur du son et mixeurDemarche Benoit, programmateur
+Collignon Médéric, artiste musicien compositeur
+Collot Jean, chef opérateur du son
 Comte Charlotte, ingénieure du son
 Costes Lauréna, assistante son
 Couillard François Xavier, chef opérateur son
@@ -4354,7 +4486,7 @@ Duret Jean-Pierre, preneur de son
 Dymny Roman, monteur son et mixeur
 El Ouadie Thouraya, Assistante Son
 Enderlen Ludovic, Ingénieur du son
-Esposito Julien, Ingénieur du son
+Esposito Julien, ingénieur du son
 Eymeric Xavier, Compositeur
 Eymery Fabrice, Ingénieur du son
 Farkas Guillaume, Chef Opérateur Son
@@ -4673,21 +4805,22 @@ Chotard Antoine, eégisseur
 Chrétien Benoit, chargé de mission en festival
 Christian Boudier, directeur de festival
 Cibien Laurent, documentariste
-Cichereau Isabelle, Artiste
-Ciment Gilles, Critique
-Clapeau Jean-Baptiste, Cofondateur festival Les Docs de Noirmoutier
-Clémenceau Adrien, Artiste auteur
-Cohen Almog, Festival de cinéma
+Cichereau Isabelle, artiste
+Ciment Gilles, critique
+Clapeau Jean-Baptiste, délégué général de festival
+Clémenceau Adrien, artiste-auteur
+Coatanea William, doctorant en cinéma
+Cohen Almog, travailleuse de festival de cinéma
 Cohen Michaël, graphiste
-Collard Gérald, Technicien de maintenance
-Collette Jérôme, Narrative Designer
-Colou François, Graphiste, designer d&
-Combastel François, Chef constructeur
+Collard Gérald, technicien de maintenance
+Collette Jérôme, narrative designer
+Colou François, graphiste et designer d&
+Combastel François, chef constructeur
 Cooper-Hadjian Olivia, critique de cinéma
-Coquille-Chambel Marie, Doctorante, intermittente du spectacle
-Costes Olivia, Technicienne
-Cotinat Vincent, Journaliste
-Coué Maud, Ensemblière cinéma
+Coquille-Chambel Marie, doctorante et intermittente du spectacle
+Costes Olivia, technicienne
+Cotinat Vincent, journaliste
+Coué Maud, ensemblière cinéma
 Cousi Sandrine, artiste
 Coutant Alexia, attachée de presse
 Daily Romane, Influenceuse ciné/attachée de presse
