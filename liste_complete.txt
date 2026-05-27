@@ -1621,51 +1621,59 @@ Festa Anaïs, 1e assistante déco
 Festaz Alexandre, chargé de production
 Feytis Pierre, réalisateur et monteur
 Fialon Estelle, productrice
-Fiard-Cherifi Mickaël, Scénariste
-Fichelle Louis, Assistant son / Assistant régie
-Fieschi Marthe, Actrice
+Fiard-Cherifi Mickaël, scénariste
+Fichelle Louis, assistant son et assistant régie
+Fieschi Marthe, actrice
 Filho Eugénie, administratrice
-Filler Charlotte, cheffe décoratrice, ensemblière
-Filleul de Brohy Isabelle, Ensemblière
-Filleux Camille, Assistante caméra
-Fimat Julia, Accessoiriste
+Filler Charlotte, cheffe décoratrice et ensemblière
+Filleul de Brohy Isabelle, ensemblière
+Filleux Camille, assistante caméra
+Fillion Thibaut, technicien et dessinateur en menuiserie
+Fimat Julia, accessoiriste
 Finkielstein Morgane, assistante à la mise en scène
-Fiognon Kodjo, Régisseur
-Firoaguer-Pelc Norah, programmatrice (artiste-auteur)
-Fischer Alexandra, Électricienne
+Fiognon Kodjo, régisseur
+Firoaguer-Pelc Norah, programmatrice
+Fischer Alexandra, électricienne
 Fischer Aline, réalisatrice
-Fischer Fabien, Réalisateur
-Fisera Cécile, Comédienne
-Fivel Marc, Chef constructeur
-Flaux Adèle, Réalisatrice de documentaires
-Flavier Thomas, Médiateur culturel, programmateur de films pour le jeune public
+Fischer Fabien, réalisateur
+Fisera Cécile, comédienne
+Fivel Marc, chef constructeur
+Flaux Adèle, réalisatrice de documentaires
+Flavier Thomas, médiateur culturel et programmateur de films pour le jeune public
 Fleisher Heidi, productrice
-Fleurant Léo, Ingénieur du son
+Fleurant Léo, ingénieur du son
 Floch Sandrine, distributrice
-Flodrops Morgane, Graphiste
-Focsa Elena, Réalisatrice / scénariste
+Flodrops Morgane, graphiste
+Flogny Victor, électricien
+Foco Mafalda, comédienne
+Focsa Elena, réalisatrice et scénariste
+Fodera Eric, chef machiniste
 Fogiel Yaël, productrice
 Folens Chloé, traductrice
-Foliard Typhaine, Machiniste de prise de vue
+Foliard Typhaine, machiniste de prise de vue
 Foligné Laëtitia, cinéaste
-Follet Jules, Réalisateur
+Follet Jules, réalisateur
 Folliet Heidi, scénographe
-Follmer Camille, Montage
-Fonck Nicolas, Designer
-Fonda Adrien, Réalisateur et Monteur
-Fontaine Chloé, comédienne, scénariste, réalisatrice
-Fontaine Gabin, critique cinéma
+Follmer Camille, montage
+Foly Bertrand, comédien
+Fonck Nicolas, designer
+Fonda Adrien, réalisateur et monteur
+Fontaine Chloé, comédienne, scénariste et réalisatrice
+Fontaine Gabin, critique de cinéma
 Fontaine Jeanne, scripte
-Fontaine Madeline, Créatrice de costumes
+Fontaine Madeline, créatrice de costumes
 Fontaine Nora, assistante caméra
 Fontan Fanny, réalisatrice
 Fontenille Tom, réalisateur
 Foort Fabia, ripper
 Forde Jessica, actrice et photographe
+Forsans Liv, chargée d&
+Fortat Sophie, assistante décoratrice
 Fouant Mathilde, électricienne
-Foubert Maxence,  alternant, projeteur DAO, électricien
+Foubert Maxence, alternant, projeteur DAO et électricien
 Foucard Anne-Thaïse, responsable RSE
 Fouco Michel, directeur artistique
+Fougeray Julia, productrice
 Fougere Camille, Monteuse
 Foulatier Amélie, Scénariste et lectrice
 Fouque Dimitri, comédien
@@ -2139,7 +2147,7 @@ Hiron Emmanuelle, Actrice
 Hirsch Claude, documentariste
 Hirsch Julien, directeur de la photographie
 Hiter-Benisty Elias, Assistant electro (junior)
-h Morgan, Comédienne
+h Morgan, comédienne
 Hochet Adeline, Coiffeuse perruquière
 Hoch Théo, cinéaste
 Ho Eden, projectionniste
