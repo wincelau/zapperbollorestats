@@ -3,7 +3,7 @@
 
 [Cette page](https://wincelau.github.io/ZapperBolloreStats/) est générée automatiquement par [un script](https://github.com/wincelau/ZapperBolloreStats), elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic) de [la tribune Zapper Bolloré](https://www.liberation.fr/culture/depardon-binoche-haenel-600-professionnels-du-cinema-denoncent-lemprise-de-bollore-sur-le-septieme-art-20260511_FZW7WRBEXNDPVK5MAUTSFF6EHE).
 
-Dernière mis à jour : 2026-05-27 22:05:21
+Dernière mis à jour : 2026-05-27 23:05:35
 
 ## Regroument des signataires par catégorie de métiers
 
@@ -19,7 +19,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 |Distribution|[25](#distribution-1)|[+1](#distribution)|||
 |Électricien.ne|[154](#Électricienne-1)|[+4](#Électricienne)|||
 |Exploitation|[224](#exploitation-1)|[+8](#exploitation)|||
-|Habillage, maquillage, coiffure|[126](#habillage-maquillage-coiffure-1)|[+5](#habillage-maquillage-coiffure)|||
+|Habillage, maquillage, coiffure|[125](#habillage-maquillage-coiffure-1)|[+4](#habillage-maquillage-coiffure)|||
 |Image|[399](#image-1)|[+11](#image)|||
 |Machiniste|[82](#machiniste-1)|[+2](#machiniste)|||
 |Post production|[306](#post-production-1)|[+7](#post-production)|||
@@ -28,7 +28,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 |Régie|[160](#régie-1)|[+6](#régie)|||
 |Scénariste|[215](#scénariste-1)|[+5](#scénariste)|||
 |Son|[328](#son-1)|[+4](#son)|||
-|Autres|[546](#autres-1)|[+15](#autres)|||
+|Autres|[547](#autres-1)|[+16](#autres)|||
 
 ## Derniers signataires 
 
@@ -272,7 +272,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Habillage, maquillage, coiffure
 
 ```diff
-5 nouveau(x) signataire(s) aujourd'hui
+4 nouveau(x) signataire(s) aujourd'hui
 # 
 - charchaude laurent, regisseur costume
 + charchaude laurent, régisseur costume
@@ -289,6 +289,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + jean pauline, costumière et habilleuse
 - jean pauline, costumière / habilleuse
 + kent mathilde, costumière
+- kieffer pauline, costumière
 ```
 
 ### Image
@@ -677,6 +678,8 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - khatami sima, cinéaste, plasticien
 + khoshnoudi bani, scénariste et réalisatrice
 - khoshnoudi bani, scénariste, réalisatrice
++ klein astrid s., réalisatrice, artiste
+- klein astrid s. réalisatrice, artiste
 + pagès lucie, scénariste, réalisatrice
 - pagès lucie scénariste, réalisatrice
 + palumbo jonathan, scénariste et réalisateur
@@ -841,7 +844,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 ### Autres
 
 ```diff
-15 nouveau(x) signataire(s) aujourd'hui
+16 nouveau(x) signataire(s) aujourd'hui
 # 
 - caillaud simon, éomédien
 - caillibot stan, éégisseur
@@ -918,6 +921,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - jammot florence, journaliste retraitée
 - jolly eva, centre pompidou
 + jouan delphine, coordinatrice accueil de tournages
++ kieffer pauline, ostumière
 + langlois hélène, artiste
 + pain céline, directrice de festival
 - pain céline, directrice du festival hors cadres
@@ -2258,7 +2262,6 @@ jamet-rosier laure, costumière
 javaux joséphine, costumière
 jean pauline, costumière et habilleuse
 kent mathilde, costumière
-kieffer pauline, costumière
 kinebanyan alexis, maquilleur, sculpteur
 koch mathilde, habilleuse/costumiere
 lacroix lucie, habilleuse
@@ -4035,7 +4038,7 @@ kerkour maïa, scripte
 khatami sima, cinéaste et plasticien
 khleifi nael, réalisateur
 khoshnoudi bani, scénariste et réalisatrice
-klein astrid s. réalisatrice, artiste
+klein astrid s., réalisatrice, artiste
 klingemann sarah, réalisatrice
 klotz jean-christophe, réalisateur
 klotz nicolas, cinéaste
@@ -5572,6 +5575,7 @@ kerichard maude, technicienne av
 kerneur arnaud, coordinateur d&
 kertekian laurence, agent d&
 kiefer régis, artiste
+kieffer pauline, ostumière
 killian bouthemy, chargé de médiation culturelle
 klein pierre, artiste
 koenig frédéric, gérant  
