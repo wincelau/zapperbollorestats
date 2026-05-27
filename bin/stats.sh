@@ -26,6 +26,8 @@ PREVIOUSHASH=$(git cat-file -p $(git cat-file -p $PREVIOUSCOMMIT | grep tree | c
 git cat-file -p $PREVIOUSHASH | sed -r 's/[ \t]+$//' | sed -r 's/[ ]+/ /g' | sort | uniq > /tmp/previouszapperbollore
 
 join -t ";" -j 1 /tmp/zapperbollore /tmp/previouszapperbollore -v 1 > /tmp/newsignataires
+join -t ";" -j 1 /tmp/zapperbollore /tmp/previouszapperbollore -v 2 > /tmp/oldsignataires
+NBNEWSIGNATAIRE=$(echo "$(cat /tmp/newsignataires | wc -l) - $(cat /tmp/oldsignataires | wc -l)" | bc)
 
 # Récupére les nouveaux signataires de la veille
 
@@ -39,6 +41,9 @@ YESTERDAYFLASTHASH=$(git cat-file -p $(git cat-file -p $YESTERDAYLASTCOMMIT | gr
 git cat-file -p $YESTERDAYFLASTHASH | sed -r 's/[ \t]+$//' | sed -r 's/[ ]+/ /g' | sort | uniq > /tmp/yesterdaylastzapperbollore
 
 join -t ";" -j 1 /tmp/yesterdaylastzapperbollore /tmp/yesterdayfirstzapperbollore -v 1 > /tmp/yesterday_newsignataires
+join -t ";" -j 1 /tmp/yesterdaylastzapperbollore /tmp/yesterdayfirstzapperbollore -v 2 > /tmp/yesterday_oldsignataires
+
+YESTERDAYNBNEWSIGNATAIRE=$(echo "$(cat /tmp/yesterday_newsignataires | wc -l) - $(cat /tmp/yesterday_oldsignataires | wc -l)" | bc)
 
 # Récupére les nouveaux signataires de l'avant veille
 
@@ -52,6 +57,9 @@ BEFOREYESTERDAYFLASTHASH=$(git cat-file -p $(git cat-file -p $BEFOREYESTERDAYLAS
 git cat-file -p $BEFOREYESTERDAYFLASTHASH | sed -r 's/[ \t]+$//' | sed -r 's/[ ]+/ /g' | sort | uniq > /tmp/beforeyesterdaylastzapperbollore
 
 join -t ";" -j 1 /tmp/beforeyesterdaylastzapperbollore /tmp/beforeyesterdayfirstzapperbollore -v 1 > /tmp/beforeyesterday_newsignataires
+join -t ";" -j 1 /tmp/beforeyesterdaylastzapperbollore /tmp/beforeyesterdayfirstzapperbollore -v 2 > /tmp/beforeyesterday_oldsignataires
+
+BEFOREYESTERDAYNBNEWSIGNATAIRE=$(echo "$(cat /tmp/beforeyesterday_newsignataires | wc -l) - $(cat /tmp/beforeyesterday_oldsignataires | wc -l)" | bc)
 
 # Récupère les signataire par catégorie
 
@@ -60,6 +68,7 @@ cat bin/filtres | while read ligne; do
   REGEXP=$(echo -n $ligne | cut -d ";" -f 2);
   REGEXPEXCLUDE=$(echo -n $ligne | cut -d ";" -f 3);
   cat /tmp/zapperbollore | grep -Ei "$REGEXP" | grep -Eiv "$REGEXPEXCLUDE" | sort | uniq > "/tmp/zapperbollore_$TITRE"
+  cat /tmp/oldsignataires | grep -Ei "$REGEXP" | grep -Eiv "$REGEXPEXCLUDE" | sort | uniq > "/tmp/oldsignataires_$TITRE"
 done
 cat /tmp/zapperbollore_* | sort > /tmp/zapperbollore_tous
 join -t ";" -v 1 /tmp/zapperbollore /tmp/zapperbollore_tous > /tmp/zapperbollore_ZZZZAutres
@@ -74,7 +83,7 @@ echo >> README.md
 
 echo "||Total|Aujourd'hui|Hier|Avant-hier|" >> README.md
 echo "|:-|-:|-:|-:|-:|" >> README.md
-echo "|**Tous les signataires**|**$(cat /tmp/zapperbollore | sort | uniq | wc -l)**|**+$(cat /tmp/newsignataires | wc -l)**|**+$(cat /tmp/yesterday_newsignataires | wc -l)**|**+$(cat /tmp/beforeyesterday_newsignataires | wc -l)**|" >> README.md
+echo "|**Tous les signataires**|**$(cat /tmp/zapperbollore | sort | uniq | wc -l)**|**+$NBNEWSIGNATAIRE**|**+$YESTERDAYNBNEWSIGNATAIRE**|**+$BEFOREYESTERDAYNBNEWSIGNATAIRE**|" >> README.md
 ls /tmp/zapperbollore_* | grep -v _tous | while read file; do
   echo "|$(echo -n $file | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' )|[$(cat "$file" | sort | uniq | wc -l)](#$(echo -n $file | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' | tr '[:upper:]' '[:lower:]' | sed 's/ /-/g' | sed 's/[\.,.]//g' )-1)|[+$(join -t ";" -j 1 "$file" /tmp/newsignataires | wc -l)](#$(echo -n $file | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' | tr '[:upper:]' '[:lower:]' | sed 's/ /-/g' | sed 's/[\.,.]//g' ))|||" >> README.md
 done
@@ -86,12 +95,17 @@ echo "$(cat /tmp/newsignataires | wc -l) nouveau(x) signataire(s) aujourd'hui" >
 echo >> README.md
 
 ls /tmp/zapperbollore_* | grep -v _tous | while read file; do
+  join -t ";" -j 1 "$file" /tmp/newsignataires > /tmp/newsignatairescategorie.tmp
+  OLDFILE="$(echo $file | sed 's/zapperbollore_/oldsignataires_/')"
+  NBNEW=$(echo "$(cat /tmp/newsignatairescategorie.tmp | wc -l) - $(cat "$OLDFILE" | wc -l)" | bc)
   echo "### $file" | sed 's|/tmp/zapperbollore_||' | sed 's|ZZZZ||' >> README.md
   echo >> README.md
   echo '```diff' >> README.md
-  echo "$(join -t ";" -j 1 "$file" /tmp/newsignataires | wc -l) nouveau(x) signataire(s) aujourd'hui" >> README.md
-  echo >> README.md
-  join -t ";" -j 1 "$file" /tmp/newsignataires | sed 's/^/+ /' >> README.md
+  echo "$NBNEW nouveau(x) signataire(s) aujourd'hui" >> README.md
+  echo "# " >> README.md
+  cat /tmp/newsignatairescategorie.tmp | sed 's/^/+ /' > /tmp/diffsignatairescategorie.tmp
+  cat "$OLDFILE" | sed 's/^/- /' >> /tmp/diffsignatairescategorie.tmp
+  cat /tmp/diffsignatairescategorie.tmp | sort >> README.md
   echo '```' >> README.md
   echo >> README.md
 done
