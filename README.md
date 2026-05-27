@@ -3,7 +3,7 @@
 
 [Cette page](https://wincelau.github.io/ZapperBolloreStats/) est générée automatiquement par [un script](https://github.com/wincelau/ZapperBolloreStats), elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic) de [la tribune Zapper Bolloré](https://www.liberation.fr/culture/depardon-binoche-haenel-600-professionnels-du-cinema-denoncent-lemprise-de-bollore-sur-le-septieme-art-20260511_FZW7WRBEXNDPVK5MAUTSFF6EHE).
 
-Dernière mis à jour : 2026-05-27 17:32:01
+Dernière mis à jour : 2026-05-27 18:02:14
 
 ## Regroument des signataires par catégorie de métiers
 
@@ -11,28 +11,28 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 
 ||Total|Aujourd'hui|Hier|Avant-hier|
 |:-|-:|-:|-:|-:|
-|**Tous les signataires**|**4280**|**+57**|**+177**|**+347**|
+|**Tous les signataires**|**4292**|**+69**|**+177**|**+347**|
 |Acteur.ice, Comédien.ne|[453](#acteurice-comédienne-1)|[+8](#acteurice-comédienne)|||
 |Animation|[21](#animation-1)|[+1](#animation)|||
 |Casting|[39](#casting-1)|[+1](#casting)|||
-|Décor|[288](#décor-1)|[+1](#décor)|||
+|Décor|[289](#décor-1)|[+2](#décor)|||
 |Distribution|[24](#distribution-1)|[+0](#distribution)|||
 |Électricien.ne|[151](#Électricienne-1)|[+1](#Électricienne)|||
-|Exploitation|[221](#exploitation-1)|[+5](#exploitation)|||
-|Habillage, maquillage, coiffure|[122](#habillage-maquillage-coiffure-1)|[+1](#habillage-maquillage-coiffure)|||
-|Image|[396](#image-1)|[+7](#image)|||
+|Exploitation|[223](#exploitation-1)|[+7](#exploitation)|||
+|Habillage, maquillage, coiffure|[123](#habillage-maquillage-coiffure-1)|[+2](#habillage-maquillage-coiffure)|||
+|Image|[397](#image-1)|[+8](#image)|||
 |Machiniste|[81](#machiniste-1)|[+1](#machiniste)|||
-|Post production|[300](#post-production-1)|[+1](#post-production)|||
-|Production|[318](#production-1)|[+4](#production)|||
-|Réalisation|[1064](#réalisation-1)|[+14](#réalisation)|||
+|Post production|[301](#post-production-1)|[+2](#post-production)|||
+|Production|[320](#production-1)|[+6](#production)|||
+|Réalisation|[1065](#réalisation-1)|[+15](#réalisation)|||
 |Régie|[159](#régie-1)|[+5](#régie)|||
-|Scénariste|[211](#scénariste-1)|[+1](#scénariste)|||
-|Son|[326](#son-1)|[+2](#son)|||
-|Autres|[538](#autres-1)|[+7](#autres)|||
+|Scénariste|[212](#scénariste-1)|[+2](#scénariste)|||
+|Son|[327](#son-1)|[+3](#son)|||
+|Autres|[540](#autres-1)|[+9](#autres)|||
 
 ## Derniers signataires 
 
-506 nouveau(x) signataire(s) aujourd'hui
+576 nouveau(x) signataire(s) aujourd'hui
 
 ### Acteur.ice, Comédien.ne
 
@@ -145,6 +145,18 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Durand Keriako Amelie, musicienne et comédienne
 + Edom Théo, comédien
 - Edom Théo, Comédien
++ Escourtou Emmanuelle, comédienne
+- Escourtou Emmanuelle, Comédienne
++ Facerias Benoît, comédien
+- Facerias Benoît, Comédien
++ Falbriard Camille, comédienne
+- Falbriard Camille, Comédienne
++ Faramond Sèverine, comédienne
+- Faramond Sèverine, Comédienne
++ Fauconnier Philippe, comédien
+- Fauconnier Philippe, Comédien
++ Faulon Nikita, comédienne
+- Faulon Nikita, Comédienne
 ```
 
 ### Animation
@@ -179,12 +191,14 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + de Donceel Fanny, directrice de casting
 - de Donceel Fanny, Directrice de casting
 + Dumay Vianney, assistant casting
++ Escribano Durand Florence, assistante de casting
+- Escribano Durand Florence, Assistante de casting
 ```
 
 ### Décor
 
 ```diff
-1 nouveau(x) signataire(s) aujourd'hui
+2 nouveau(x) signataire(s) aujourd'hui
 # 
 + Caperna Hélène, cheffe peintre
 - Caperna Hélène, Cheffe peintre
@@ -269,6 +283,11 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - Edline Fabrice, Peintre déco
 + Egle Max, menuisier
 - Egle Max, Menuisier
++ Elissalt Marion, assistante accessoiriste
+- Elissalt Marion,  assistante accessoiriste
++ Emsallem Thelma, menuiserie
+- Emsallem Thelma, Menuiserie
++ Fauguet Sarah, cheffe peintre
 ```
 
 ### Distribution
@@ -314,12 +333,20 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - Duvergey Hugo, Électricien
 - Elfassi Elie, Electricien de prises de vues cinéma
 + Elfassi Elie, électricien de prises de vues cinéma
+- Erat Antonin, Electricien
++ Erat Antonin, électricien
++ Eudeline Hubert, électricien de prise de vue cinema
+- Eudeline Hubert, Électricien de prise de vue cinema
++ Fauquembergue Louis, électricien
+- Fauquembergue Louis, Électricien
++ Favrel Raphaelle, cheffe électricienne
+- Favrel Raphaelle, Cheffe électricienne
 ```
 
 ### Exploitation
 
 ```diff
-5 nouveau(x) signataire(s) aujourd'hui
+7 nouveau(x) signataire(s) aujourd'hui
 # 
 + Capello Benoît, exploitant de cinéma indépendant
 - Capello Benoît, Exploitant de cinéma indépendant
@@ -358,12 +385,20 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - Durieux Martin, Projectionniste
 + Durmord Solenn, programmatrice
 - Durmord Solenn, Programmatrice
++ Erlenbach Vincent, exploitant
+- Erlenbach Vincent, Exploitant Utopia Bordeaux
++ Escudero Diéguez Miquel, programmateur
++ Fabre Anne, programmatrice
++ Faucher-Derocles Aymerick, programmateur
+- Faucher-Derocles Aymerick, Programmateur
++ Faucon Anne, exploitante
+- Faucon Anne, Exploitante Cinéma Utopia Pont-Sainte-Marie
 ```
 
 ### Habillage, maquillage, coiffure
 
 ```diff
-1 nouveau(x) signataire(s) aujourd'hui
+2 nouveau(x) signataire(s) aujourd'hui
 # 
 + Caravati Marilou, costumière
 - Caravati Marilou, Costumière
@@ -404,12 +439,13 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Dubien Claire, créatrice costumes
 - Durand Karelle, Assistante costume
 + Durand Karelle, assistante costumes
++ Evrard Melodie, maquilleuse
 ```
 
 ### Image
 
 ```diff
-7 nouveau(x) signataire(s) aujourd'hui
+8 nouveau(x) signataire(s) aujourd'hui
 # 
 + Cancoin Melen, assistant caméra
 - Cancoin Melen, Assistant caméra
@@ -524,8 +560,25 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Dutheil Vincent, assistant opérateur
 - Dutheil Vincent, Assistant opérateur
 + Elias Ludo, chef opérateur son
++ Elshoud Costa, assistant OPV
+- Elshoud Costa, Assistant OPV
 + El Sibaïe Rémy, photographe
 - El Sibaïe Rémy, Photographe
++ Espirito Santo Octavio, directeur de la photographie
+- Espirito Santo Octavio, Directeur de Photographie
++ Eveilleau Nicolas, chef opérateur Image
+- Eveilleau Nicolas, Chef opérateur Image
++ Fabbri Philippe, chef opérateur son
++ Farkas Guillaume, chef opérateur son
+- Farkas Guillaume, Chef Opérateur Son
++ Fauré Hadrien, assistant caméra
+- Fauré Hadrien, Assistant caméra
++ Faurel Natanael, régisseur lumière et technicien son
+- Faurel Natanael, Régisseur Lumière et technicien son
++ Fausset Sasha, assistante caméra
+- Fausset Sasha, Assistante caméra
++ Fauvel Mélanie, assistante caméra
+- Fauvel Mélanie, Assistante caméra
 ```
 
 ### Machiniste
@@ -558,12 +611,14 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Dumarcher Samuel, chef-machiniste
 + Dumasy Axel, chef machiniste
 - Dumasy Axel, Chef machiniste
++ Erais Rojas Sébastien, machiniste
+- Erais Rojas Sébastien, Machiniste
 ```
 
 ### Post production
 
 ```diff
-1 nouveau(x) signataire(s) aujourd'hui
+2 nouveau(x) signataire(s) aujourd'hui
 # 
 + Cancelli Théo, monteur son et mixeur
 - Cancelli Théo, Monteur son, mixeur
@@ -622,12 +677,21 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Dupuis Cillian, assistant monteur d&
 + Durning Valentin, monteur
 - Durning Valentin, Monteur
++ Elmadjian Stéphane, monteur
++ Eve Le Cardonnel, cheffe monteuse et scripte
+- Eve Le Cardonnel, cheffe monteuse, scripte
++ Fassio Litsa, chef monteuse
+- Fassio Litsa, Chef monteuse
++ Fauthoux Sylvie, monteuse
+- Fauthoux Sylvie, Monteuse
++ Fayard Francois, chef monteur son
+- Fayard Francois, Chef Monteur Son
 ```
 
 ### Production
 
 ```diff
-4 nouveau(x) signataire(s) aujourd'hui
+6 nouveau(x) signataire(s) aujourd'hui
 # 
 + Arnaud Dommerc, producteur et distributeur
 + Carré Jean-Michel, auteur, réalisateur et producteur
@@ -689,12 +753,20 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - Dufreche Laurent, Monteur et Postproducteur
 + Ede Victor, producteur
 - Ede Victor, Producteur
++ Engel Nina, productrice, autrice et réalisatrice
+- Engel Nina, Productrice, autrice, réalisatrice
++ Estèves Catherine, productrice
+- Estèves Catherine, Productrice
++ Farine Edith, autrice et productrice de documentaires
+- Farine Edith, Autrice et productrice de documentaires
++ Faugeras Grégoire, chargé de production
++ Faye Marc, producteur
 ```
 
 ### Réalisation
 
 ```diff
-14 nouveau(x) signataire(s) aujourd'hui
+15 nouveau(x) signataire(s) aujourd'hui
 # 
 + Capeĺle Aline, réalisatrice
 - Capeĺle Aline, Réalisatrice
@@ -892,6 +964,37 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - Duvivier Rose, Réalisatrice de courts-métrages
 + Edelstein Muriel, cinéaste
 + El Faris Ilias, réalisateur
++ Engel Nina, productrice, autrice et réalisatrice
+- Engel Nina, Productrice, autrice, réalisatrice
++ Epelboin Reno, assistant réalisateur
+- Epelboin Reno, Assistant Réalisateur
++ Esterez Arnaud, 1er assistant réalisateur
+- Esterez Arnaud, 1er Assistant Réalisateur
++ Estrade Laurine, réalisatrice
+- Estrade Laurine, Réalisatrice
++ Eustachon Mattéo, réalisateur
+- Eustachon Mattéo, Réalisateur
++ Eve Le Cardonnel, cheffe monteuse et scripte
+- Eve Le Cardonnel, cheffe monteuse, scripte
++ Fack Thibaut, scénographe
+- Fack Thibaut, Scénographe
++ Fanara Lilian, réalisateur
+- Fanara Lilian, Réalisateur
++ Fanfani Mario, cinéaste
++ Fasse Samuel, metteur en scène
+- Fasse Samuel, Metteur en scène
++ Faubert Meline, scénographe
+- Faubert Meline,  Scénographe
++ Faulkner Morgane, réalisatrice
+- Faulkner Morgane, Réalisatrice
++ Faure Maxime, réalisateur
+- Faure Maxime, Réalisateur
++ Fave Anne, cinéaste
+- Fave Anne, Cinéaste
++ Fazendeiro Maureen, scénariste et réalisatrice
+- Fazendeiro Maureen, scénariste, réalisatrice
++ Fejtö Raphaël, auteur eRéalisateur
+- Fejtö Raphaël, Auteur Réalisateur
 ```
 
 ### Régie
@@ -946,12 +1049,18 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Durand Yannis, régisseur
 - Durand Yannis, Régisseur
 - Eckert Edouard, Régisseur général
++ Fanget Agnes, régisseuse d’extérieurs
+- Fanget Agnes, Régisseuse d’extérieurs
++ Faucheux Mathias, régisseur
+- Faucheux Mathias, Régisseur
++ Faurel Natanael, régisseur lumière et technicien son
+- Faurel Natanael, Régisseur Lumière et technicien son
 ```
 
 ### Scénariste
 
 ```diff
-1 nouveau(x) signataire(s) aujourd'hui
+2 nouveau(x) signataire(s) aujourd'hui
 # 
 + Cardot Floriane, réalisatrice, scénariste et photographe
 - Cardot Floriane, Réalisatrice, scénariste, photographe
@@ -1006,12 +1115,23 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - Dujardin Caroline, Actrice et scénariste
 + Durac Karine, scénariste
 - Durac Karine, Scénariste
++ Espagno Claire, scénariste
+- Espagno Claire, Scénariste
++ Espi Frédéric, écrivain et scénariste
+- Espi Frédéric, Écrivain, scénariste
++ Evin Léo, scénariste
+- Evin Léo, Scénariste
++ Fasse Samuel, metteur en scène
+- Fasse Samuel, Metteur en scène
++ Fassio Sandra, scénariste
++ Fazendeiro Maureen, scénariste et réalisatrice
+- Fazendeiro Maureen, scénariste, réalisatrice
 ```
 
 ### Son
 
 ```diff
-2 nouveau(x) signataire(s) aujourd'hui
+3 nouveau(x) signataire(s) aujourd'hui
 # 
 + Cancelli Théo, monteur son et mixeur
 - Cancelli Théo, Monteur son, mixeur
@@ -1093,14 +1213,27 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Elias Ludo, chef opérateur son
 + El Ouadie Thouraya, assistante Son
 - El Ouadie Thouraya, Assistante Son
++ Enderlen Ludovic, ingénieur du son
+- Enderlen Ludovic, Ingénieur du son
 + Esposito Julien, ingénieur du son
 - Esposito Julien, Ingénieur du son
++ Eymeric Xavier, compositeur
+- Eymeric Xavier, Compositeur
++ Eymery Fabrice, ingénieur du son
+- Eymery Fabrice, Ingénieur du son
++ Fabbri Philippe, chef opérateur son
++ Farkas Guillaume, chef opérateur son
+- Farkas Guillaume, Chef Opérateur Son
++ Faurel Natanael, régisseur lumière et technicien son
+- Faurel Natanael, Régisseur Lumière et technicien son
++ Fayard Francois, chef monteur son
+- Fayard Francois, Chef Monteur Son
 ```
 
 ### Autres
 
 ```diff
-7 nouveau(x) signataire(s) aujourd'hui
+9 nouveau(x) signataire(s) aujourd'hui
 # 
 - Caillaud Simon, éomédien
 - Caillibot Stan, éégisseur
@@ -1225,6 +1358,18 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + Ed End, vidéaste
 - Ed End, Vidéaste
 + Edie Chantal, curatrice
++ Emeriau Chloé, traductrice-adaptatrice (doublage)
++ Emeriau Maxime, recorder bruitage
+- Emeriau Maxime, Recorder bruitage
++ Emery Jean-Bernard, attaché de presse
++ Fabre Raphaël, artiste
+- Fabre Raphaël, Artiste
++ Faudry Catherine, chargée de mission culturelle
+- Faudry Catherine, Chargée de mission culturelle
+- Faure Julia, cheffe d’entreprise
++ Fave Pierre-Yves, truquiste
++ Favier Olivier, journaliste
+- Favier Olivier, Journaliste
 ```
 
 
@@ -1380,14 +1525,14 @@ Dupuis Robin, comédien et technicien
 Durand Keriako Amelie, musicienne et comédienne
 Duval Julien, acteur
 Edom Théo, comédien
-Escourtou Emmanuelle, Comédienne
-Facerias Benoît, Comédien
-Falbriard Camille, Comédienne
+Escourtou Emmanuelle, comédienne
+Facerias Benoît, comédien
+Falbriard Camille, comédienne
 Faligant Syl, auteur·rice, réalisateur·rice et acteur·rice
-Faramond Sèverine, Comédienne
+Faramond Sèverine, comédienne
 Farzanehpour Dana, comédien
-Fauconnier Philippe, Comédien
-Faulon Nikita, Comédienne
+Fauconnier Philippe, comédien
+Faulon Nikita, comédienne
 Ferri Catherine, comédienne
 Ferrus Caroline, actrice
 Fieschi Marthe, Actrice
@@ -1737,7 +1882,7 @@ De Becdelievre Mahaut, casting
 de Donceel Fanny, directrice de casting
 de Laubier Marie, réalisatrice - directrice de casting
 Dumay Vianney, assistant casting
-Escribano Durand Florence, Assistante de casting
+Escribano Durand Florence, assistante de casting
 Fournier Leila, Directrice de casting
 Fraggi Judith, Directrice Casting
 François Camille, Directrice de casting
@@ -1875,9 +2020,10 @@ Dupire-Clément Riton, chef décorateur
 Dury Yann, décorateur cinéma
 Edline Fabrice, peintre déco
 Egle Max, menuisier
-Elissalt Marion,  assistante accessoiriste
+Elissalt Marion, assistante accessoiriste
 Emilie Debus, graphiste déco
-Emsallem Thelma, Menuiserie
+Emsallem Thelma, menuiserie
+Fauguet Sarah, cheffe peintre
 Ferrieux Anne, peintre deco
 Festa Anaïs, 1ere assistante deco
 Filler Charlotte, cheffe décoratrice, ensemblière
@@ -2145,10 +2291,10 @@ Dussieux Evann, électricien de plateau
 Dutrievoz Hermence, électricienne de prise de vue
 Duvergey Hugo, électricien
 Elfassi Elie, électricien de prises de vues cinéma
-Erat Antonin, Electricien
-Eudeline Hubert, Électricien de prise de vue cinema
-Fauquembergue Louis, Électricien
-Favrel Raphaelle, Cheffe électricienne
+Erat Antonin, électricien
+Eudeline Hubert, électricien de prise de vue cinema
+Fauquembergue Louis, électricien
+Favrel Raphaelle, cheffe électricienne
 Fernandez Arman, Électricien, Préparateur boîte de location Lumière
 Fischer Alexandra, Électricienne
 Fouant Mathilde, électricienne
@@ -2318,10 +2464,12 @@ Dufeu Laurent, directeur de réseau de salles de cinéma  
 Dupouy Romain, programmateur
 Durieux Martin, projectionniste
 Durmord Solenn, programmatrice
-Erlenbach Vincent, Exploitant Utopia Bordeaux
+Erlenbach Vincent, exploitant
+Escudero Diéguez Miquel, programmateur
 Euzen Gwenael, projectionniste
-Faucher-Derocles Aymerick, Programmateur
-Faucon Anne, Exploitante Cinéma Utopia Pont-Sainte-Marie
+Fabre Anne, programmatrice
+Faucher-Derocles Aymerick, programmateur
+Faucon Anne, exploitante
 Feldman Vincent, Exploitant
 Feodoroff Nicolas, Programmateur
 Fernandez Jean-Manuel, projectionniste
@@ -2521,6 +2669,7 @@ Dollon Josepha, habilleuse
 Dubien Claire, créatrice costumes
 Durand Anais, costumière
 Durand Karelle, assistante costumes
+Evrard Melodie, maquilleuse
 Faget Patricia, costumière
 Ferron Antoine, Costumier
 Fontaine Madeline, Créatrice de costumes
@@ -2757,15 +2906,16 @@ Durand Gérald, chef éclairagiste
 Durand Nathalie, directrice de la photographie
 Dutheil Vincent, assistant opérateur
 Elias Ludo, chef opérateur son
-Elshoud Costa, Assistant OPV
+Elshoud Costa, assistant OPV
 El Sibaïe Rémy, photographe
-Espirito Santo Octavio, Directeur de Photographie
-Eveilleau Nicolas, Chef opérateur Image
-Farkas Guillaume, Chef Opérateur Son
-Fauré Hadrien, Assistant caméra
-Faurel Natanael, Régisseur Lumière et technicien son
-Fausset Sasha, Assistante caméra
-Fauvel Mélanie, Assistante caméra
+Espirito Santo Octavio, directeur de la photographie
+Eveilleau Nicolas, chef opérateur Image
+Fabbri Philippe, chef opérateur son
+Farkas Guillaume, chef opérateur son
+Fauré Hadrien, assistant caméra
+Faurel Natanael, régisseur lumière et technicien son
+Fausset Sasha, assistante caméra
+Fauvel Mélanie, assistante caméra
 Fernandez Arman, Électricien, Préparateur boîte de location Lumière
 Filleux Camille, Assistante caméra
 Fontaine Nora, assistante caméra
@@ -3036,7 +3186,7 @@ Dumarcher Samuel, chef-machiniste
 Dumasy Axel, chef machiniste
 Dupuis François, chef machiniste
 El amraoui Rita, machiniste
-Erais Rojas Sébastien, Machiniste
+Erais Rojas Sébastien, machiniste
 Foliard Typhaine, Machiniste de prise de vue
 Frontin Valentin, Machiniste
 Gaillard Robin, Chef Machiniste
@@ -3207,13 +3357,14 @@ Dupuis Cillian, assistant monteur d&
 Durning Valentin, monteur
 Dymny Roman, monteur son et mixeur
 Ekchajzer Dinah, monteuse
+Elmadjian Stéphane, monteur
 Escourrou Ilona, assistante monteuse
-Eve Le Cardonnel, cheffe monteuse, scripte
+Eve Le Cardonnel, cheffe monteuse et scripte
 Fabre Marie-Gabrielle, cinéaste et monteuse
 Falise Manon, monteuse
-Fassio Litsa, Chef monteuse
-Fauthoux Sylvie, Monteuse
-Fayard Francois, Chef Monteur Son
+Fassio Litsa, chef monteuse
+Fauthoux Sylvie, monteuse
+Fayard Francois, chef monteur son
 Feytis Pierre Réalisateur, monteur
 Fonda Adrien, Réalisateur et Monteur
 Fougere Camille, Monteuse
@@ -3529,11 +3680,13 @@ Dumas Raphaèle, productrice
 Dupeyron Léa, productrice
 Ede Victor, producteur
 El Ouadie Oumeya, directrice de production
-Engel Nina, Productrice, autrice, réalisatrice
-Estèves Catherine, Productrice
+Engel Nina, productrice, autrice et réalisatrice
+Estèves Catherine, productrice
 Fariñas Emma, réalisatrice et productrice
-Farine Edith, Autrice et productrice de documentaires
+Farine Edith, autrice et productrice de documentaires
+Faugeras Grégoire, chargé de production
 Favillier Kévin, producteur
+Faye Marc, producteur
 Feminier Perrine, Productrice
 Ferali Laurence, Administratrice de production
 Ferdinand Jeanette, Productrice
@@ -4103,30 +4256,31 @@ Edelstein Muriel, cinéaste
 Ehouzan Bastien, réalisateur
 El Faris Ilias, réalisateur
 Engasser Timothée, réalisateur
-Engel Nina, Productrice, autrice, réalisatrice
-Epelboin Reno, Assistant Réalisateur
+Engel Nina, productrice, autrice et réalisatrice
+Epelboin Reno, assistant réalisateur
 Ernest Maya, metteuse en scène
-Esterez Arnaud, 1er Assistant Réalisateur
+Esterez Arnaud, 1er assistant réalisateur
 Estrade Catherine, réalisatrice
-Estrade Laurine, Réalisatrice
-Eustachon Mattéo, Réalisateur
-Eve Le Cardonnel, cheffe monteuse, scripte
+Estrade Laurine, réalisatrice
+Eustachon Mattéo, réalisateur
+Eve Le Cardonnel, cheffe monteuse et scripte
 Everaere Anouck, réalisatrice
 Fabre Marie-Gabrielle, cinéaste et monteuse
-Fack Thibaut, Scénographe
+Fack Thibaut, scénographe
 Faligant Syl, auteur·rice, réalisateur·rice et acteur·rice
-Fanara Lilian, Réalisateur
+Fanara Lilian, réalisateur
+Fanfani Mario, cinéaste
 Fargier Alice, réalisatrice
 Fariñas Emma, réalisatrice et productrice
 Farsi Sepideh, réalisatrice
-Fasse Samuel, Metteur en scène
-Faubert Meline,  Scénographe
-Faulkner Morgane, Réalisatrice
-Faure Maxime, Réalisateur
-Fave Anne, Cinéaste
-Fazendeiro Maureen, scénariste, réalisatrice
+Fasse Samuel, metteur en scène
+Faubert Meline, scénographe
+Faulkner Morgane, réalisatrice
+Faure Maxime, réalisateur
+Fave Anne, cinéaste
+Fazendeiro Maureen, scénariste et réalisatrice
 Feiler Pauline, scripte
-Fejtö Raphaël, Auteur Réalisateur
+Fejtö Raphaël, auteur eRéalisateur
 Ferhani Hassen, réalisateur
 Fernandez Philippe, réalisateur
 Feytis Pierre Réalisateur, monteur
@@ -4861,9 +5015,9 @@ Dumay Mel, régisseuse
 Duponchel Violette, régisseuse d’extérieurs
 Durand Yannis, régisseur
 Estampe Nicolas, régisseur adjoint
-Fanget Agnes, Régisseuse d’extérieurs
-Faucheux Mathias, Régisseur
-Faurel Natanael, Régisseur Lumière et technicien son
+Fanget Agnes, régisseuse d’extérieurs
+Faucheux Mathias, régisseur
+Faurel Natanael, régisseur lumière et technicien son
 Félix Reboul, régisseur
 Ferrenq Emilie, Ensemblière - régisseuse d&
 Fichelle Louis, Assistant son / Assistant régie
@@ -5045,12 +5199,13 @@ Durac Karine, scénariste
 Eminenti Licia, scénariste
 Ernest Maya, metteuse en scène
 Escalante Tadeo, scénariste
-Espagno Claire, Scénariste
-Espi Frédéric, Écrivain, scénariste
-Evin Léo, Scénariste
-Fasse Samuel, Metteur en scène
+Espagno Claire, scénariste
+Espi Frédéric, écrivain et scénariste
+Evin Léo, scénariste
+Fasse Samuel, metteur en scène
+Fassio Sandra, scénariste
 Faucheux-Thurion Quentin, scénariste
-Fazendeiro Maureen, scénariste, réalisatrice
+Fazendeiro Maureen, scénariste et réalisatrice
 Feinsilber Anne, scénariste
 Fiard-Cherifi Mickaël, Scénariste
 Finkielstein Morgane, assistante à la mise en scène
@@ -5316,13 +5471,14 @@ Duret Jean-Pierre, preneur de son
 Dymny Roman, monteur son et mixeur
 Elias Ludo, chef opérateur son
 El Ouadie Thouraya, assistante Son
-Enderlen Ludovic, Ingénieur du son
+Enderlen Ludovic, ingénieur du son
 Esposito Julien, ingénieur du son
-Eymeric Xavier, Compositeur
-Eymery Fabrice, Ingénieur du son
-Farkas Guillaume, Chef Opérateur Son
-Faurel Natanael, Régisseur Lumière et technicien son
-Fayard Francois, Chef Monteur Son
+Eymeric Xavier, compositeur
+Eymery Fabrice, ingénieur du son
+Fabbri Philippe, chef opérateur son
+Farkas Guillaume, chef opérateur son
+Faurel Natanael, régisseur lumière et technicien son
+Fayard Francois, chef monteur son
 Ferran Guillaume, Compositeur
 Fleurant Léo, Ingénieur du son
 Fournier Nicolas, premier assistant opérateur du son
@@ -5704,15 +5860,17 @@ Dussart Clément, délégué général
 Eckert Edouard, “égisseur général
 Ed End, vidéaste
 Edie Chantal, curatrice
-Emeriau Maxime, Recorder bruitage
+Emeriau Chloé, traductrice-adaptatrice (doublage)
+Emeriau Maxime, recorder bruitage
+Emery Jean-Bernard, attaché de presse
 Esnault Carole, ensemblière
 Esselinck Hélène, ensemblière
 Ezan David, critique de cinéma
-Fabre Raphaël, Artiste
+Fabre Raphaël, artiste
 Fassio Chloé, médiatrice en salle de cinéma
-Faudry Catherine, Chargée de mission culturelle
-Faure Julia, cheffe d’entreprise
-Favier Olivier, Journaliste
+Faudry Catherine, chargée de mission culturelle
+Fave Pierre-Yves, truquiste
+Favier Olivier, journaliste
 Fernández Ferrer Nicole, archiviste audiovisuel
 Filho Eugénie, administratrice
 Filleul de Brohy Isabelle, Ensemblière
