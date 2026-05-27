@@ -3,7 +3,7 @@
 
 [Cette page](https://wincelau.github.io/ZapperBolloreStats/) est générée automatiquement par [un script](https://github.com/wincelau/ZapperBolloreStats), elle s'occupe seulement de faire des statistiques à partir de [la liste des signataires](https://docs.google.com/document/d/1sh-xkEMkNLGw7U8GacAPe4p6828jnDVApuIVeYb8VnI/mobilebasic) de [la tribune Zapper Bolloré](https://www.liberation.fr/culture/depardon-binoche-haenel-600-professionnels-du-cinema-denoncent-lemprise-de-bollore-sur-le-septieme-art-20260511_FZW7WRBEXNDPVK5MAUTSFF6EHE).
 
-Dernière mis à jour : 2026-05-27 19:04:04
+Dernière mis à jour : 2026-05-27 21:05:05
 
 ## Regroument des signataires par catégorie de métiers
 
@@ -27,8 +27,8 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 |Réalisation|[1065](#réalisation-1)|[+15](#réalisation)|||
 |Régie|[159](#régie-1)|[+5](#régie)|||
 |Scénariste|[212](#scénariste-1)|[+2](#scénariste)|||
-|Son|[327](#son-1)|[+3](#son)|||
-|Autres|[541](#autres-1)|[+10](#autres)|||
+|Son|[328](#son-1)|[+4](#son)|||
+|Autres|[540](#autres-1)|[+9](#autres)|||
 
 ## Derniers signataires 
 
@@ -87,6 +87,8 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 1 nouveau(x) signataire(s) aujourd'hui
 # 
 + dumay vianney, assistant casting
++ fritsch clémentine, directrice de casting
+- fritsch clémentine, directrice de casting (arda)
 ```
 
 ### Décor
@@ -193,6 +195,8 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - firoaguer-pelc norah, programmatrice (artiste-auteur)
 + flavier thomas, médiateur culturel et programmateur de films pour le jeune public
 - flavier thomas, médiateur culturel, programmateur de films pour le jeune public
++ friceau tara, agent d’accueil de cinéma
+- friceau tara, agent d’accueil de cinéma ugc
 ```
 
 ### Habillage, maquillage, coiffure
@@ -266,6 +270,8 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - espirito santo octavio, directeur de photographie
 + fabbri philippe, chef opérateur son
 - fernandez arman, électricien, préparateur boîte de location lumière
+- fraisse ambre, réalisatrice, cheffe opératrice
++ fraisse ambre, réalisatrice et cheffe opératrice
 ```
 
 ### Machiniste
@@ -436,6 +442,16 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - focsa elena, réalisatrice / scénariste
 + fontaine chloé, comédienne, scénariste et réalisatrice
 - fontaine chloé, comédienne, scénariste, réalisatrice
+- fraisse ambre, réalisatrice, cheffe opératrice
++ fraisse ambre, réalisatrice et cheffe opératrice
+- fraisse-bareille cécile, metteuse en scène, autrice
++ fraisse-bareille cécile, metteuse en scène et autrice
++ franco sonia, réalisatrice et scénariste
+- franco sonia, réalisatrice, scénariste
++ frenay simon, auteur-réalisateur
+- frenay simon, auteur réalisateur
+- fréville mirabelle, réalisatrice / documentaliste
++ fréville mirabelle, réalisatrice et documentaliste
 ```
 
 ### Régie
@@ -493,12 +509,16 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - focsa elena, réalisatrice / scénariste
 + fontaine chloé, comédienne, scénariste et réalisatrice
 - fontaine chloé, comédienne, scénariste, réalisatrice
+- fraisse-bareille cécile, metteuse en scène, autrice
++ fraisse-bareille cécile, metteuse en scène et autrice
++ franco sonia, réalisatrice et scénariste
+- franco sonia, réalisatrice, scénariste
 ```
 
 ### Son
 
 ```diff
-3 nouveau(x) signataire(s) aujourd'hui
+4 nouveau(x) signataire(s) aujourd'hui
 # 
 + cancelli théo, monteur son et mixeur
 - cancelli théo, monteur son, mixeur
@@ -519,12 +539,13 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 + durand keriako amelie, musicienne et comédienne
 + elias ludo, chef opérateur son
 + fabbri philippe, chef opérateur son
++ fred grémeaux, ingénieur du son
 ```
 
 ### Autres
 
 ```diff
-10 nouveau(x) signataire(s) aujourd'hui
+9 nouveau(x) signataire(s) aujourd'hui
 # 
 - caillaud simon, éomédien
 - caillibot stan, éégisseur
@@ -576,6 +597,7 @@ Ce regroupement par catégorie s'appuie sur des [règles de filtres](bin/filtres
 - fontaine gabin, critique cinéma
 + fontaine gabin, critique de cinéma
 + forsans liv, chargée d&
+- franbourg juliette, danseuse
 ```
 
 
@@ -1094,7 +1116,7 @@ escribano durand florence, assistante de casting
 fournier leila, directrice de casting
 fraggi judith, directrice casting
 françois camille, directrice de casting
-fritsch clémentine, directrice de casting (arda)
+fritsch clémentine, directrice de casting
 grandjean marjolaine, directrice de casting, réalisatrice
 grudzinska joanna, autrice réalisatrice directrice de casting actrice
 henry julie, directrice de casting
@@ -1689,7 +1711,7 @@ firoaguer-pelc norah, programmatrice
 flavier thomas, médiateur culturel et programmateur de films pour le jeune public
 fras mathilde, programmatrice cinéma
 fras sophie, directrice de cinéma
-friceau tara, agent d’accueil de cinéma ugc
+friceau tara, agent d’accueil de cinéma
 frogé mylène, exploitante
 frommer jeanne, programmatrice de festival
 gabillard elodie, réalisatrice, programmatrice
@@ -2134,7 +2156,7 @@ forde jessica, actrice et photographe
 fouco michel, directeur artistique
 fourment louis, assistant caméra
 fournier nicolas, premier assistant opérateur du son
-fraisse ambre, réalisatrice, cheffe opératrice
+fraisse ambre, réalisatrice et cheffe opératrice
 fresson robin, directeur de la photographie
 gaborit camille, première assistante opérateur.ice
 gadafi salomé, cadreuse
@@ -3509,12 +3531,12 @@ fontaine chloé, comédienne, scénariste et réalisatrice
 fontaine jeanne, scripte
 fontan fanny, réalisatrice
 fontenille tom, réalisateur
-fraisse ambre, réalisatrice, cheffe opératrice
-fraisse-bareille cécile, metteuse en scène, autrice
-franco sonia, réalisatrice, scénariste
+fraisse ambre, réalisatrice et cheffe opératrice
+fraisse-bareille cécile, metteuse en scène et autrice
+franco sonia, réalisatrice et scénariste
 frederich lola, réalisatrice
-frenay simon, auteur réalisateur
-fréville mirabelle, réalisatrice / documentaliste
+frenay simon, auteur-réalisateur
+fréville mirabelle, réalisatrice et documentaliste
 fritah brahim, réalisateur
 gabillard elodie, réalisatrice, programmatrice
 gambart marie-christine, réalisatrice
@@ -4424,8 +4446,8 @@ finkielstein morgane, assistante à la mise en scène
 focsa elena, réalisatrice et scénariste
 fontaine chloé, comédienne, scénariste et réalisatrice
 foulatier amélie, scénariste et lectrice
-fraisse-bareille cécile, metteuse en scène, autrice
-franco sonia, réalisatrice, scénariste
+fraisse-bareille cécile, metteuse en scène et autrice
+franco sonia, réalisatrice et scénariste
 gaudier céline, assistante à la mise en scène
 gau laetitia, scénariste
 george camio, régisseur et metteur en scène
@@ -4694,6 +4716,7 @@ fayard francois, chef monteur son
 ferran guillaume, compositeur
 fleurant léo, ingénieur du son
 fournier nicolas, premier assistant opérateur du son
+fred grémeaux, ingénieur du son
 fresneau pierréloi, ingénieur du son
 fustec sophie, musicienne compositrice pianiste chanteuse
 gallice clément, ingénieur du son, monteur son
@@ -5094,7 +5117,6 @@ fonck nicolas, designer
 fontaine gabin, critique de cinéma
 forsans liv, chargée d&
 foucard anne-thaïse, responsable rse
-franbourg juliette, danseuse
 fraysse romane, journaliste
 fréret margot, technicienne
 gallon thomas, attaché de presse
